@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block content %}
+{% for article in articles_page.object_list -%}
+<article class="post">
+	<header class="entry-header">
+		<div class="entry-meta">
+			<span class="posted-on"><time class="entry-date published" datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></span> <span class="byline">av <span class="author card">{{ article.author|upper }}</span></span>
+			<hr>
+		</div>
+		<h2 class="entry-title">{{ article.title }}</h2>
+	</header>
+	<div class="entry-content">
+		{{ article.content }}
+	</div>
+	<footer class="entry-footer">
+		<span class="cat-links">Postad i {% for tag in article.tags %}{% if not loop.first %}, {% endif %}<a href="{{ SITEURL }}/{{ tag.url }}" rel="category tag">{{ tag.name }}</a>{% endfor %}</span>
+	</footer>
+</article>
+{%- endfor %}
+{% if articles_page.has_other_pages() %}
+    {% include 'pagination.html' %}
+{% endif %}
+{% endblock content %}
