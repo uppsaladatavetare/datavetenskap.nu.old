@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="sv-SE">
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+	<title>{% block indextitle %}{{ SITENAME }} | Datavetenskapsprogrammet Uppsala{% endblock %}</title>
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C600%7CLora%3A400%2C400italic&#038;ver=4.1.16' id='webfonts-css' media='all' rel='stylesheet' type='text/css'>
+    <link href='http://www.datavetenskap.nu/wp-content/themes/datavetenskap-nu/style.css?ver=4.1.16' id='datavetenskap-nu-style-css' media='all' rel='stylesheet' type='text/css'>
+    <script src='http://www.datavetenskap.nu/wp-content/plugins/google-calendar-widget/wiky.js?ver=1.0' type='text/javascript'>
+    </script>
+    <script src='http://www.datavetenskap.nu/wp-content/plugins/google-calendar-widget/date.js?ver=alpha-1' type='text/javascript'>
+    </script>
+    <script type='text/javascript'>
+    /* <![CDATA[ */
+    var ko_calendar_loc = {"all_day":"All Day","all_day_event":"All Day Event"};
+    /* ]]> */
+    </script>
+    <script src='http://www.datavetenskap.nu/wp-content/plugins/google-calendar-widget/ko-calendar.js?ver=4.1.16' type='text/javascript'>
+    </script>
+    <script src='//apis.google.com/js/client.js?onload=ko_calendar_google_init&#038;ver=4.1.16' type='text/javascript'>
+    </script>
+    <script src='http://www.datavetenskap.nu/wp-includes/js/jquery/jquery.js?ver=1.11.1' type='text/javascript'>
+    </script>
+    <script src='http://www.datavetenskap.nu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1' type='text/javascript'>
+    </script>
+    <script type='text/javascript'>
+    /* <![CDATA[ */
+    var cssTarget = "img.";
+    /* ]]> */
+    </script>
+    <script src='http://www.datavetenskap.nu/wp-content/plugins/svg-support/js/svg-inline.js?ver=1.0.0' type='text/javascript'>
+    </script>
+</head>
+<body class="{% block body_classes %}home blog group-blog{% endblock %}">
+    <div class="hfeed site" id="page">
+        <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+        <header class="site-header" id="masthead" role="banner">
+            <div class="wrapper">
+				<a href="{{ SITEURL }}/" rel="home"><img height="50" src="http://www.datavetenskap.nu/wp-content/themes/datavetenskap-nu/img/logo.svg"></a>
+            </div><!-- .wrapper -->
+            <nav class="main-navigation" id="site-navigation" role="navigation">
+                <button aria-controls="primary-menu" aria-expanded="false" class="menu-toggle">Primary Menu</button>
+				{% include "menu.html" %}
+            </nav><!-- #site-navigation -->
+            <div class="spacer"></div><!-- not sure if needed! -->
+        </header><!-- #masthead -->
+        <div class="site-content" id="content">
+            <div class="container" id="primary">
+                <main class="site-main" id="main" role="main">
+					{% block content %}
+					{% endblock content %}
+                </main><!-- #main -->
+            </div><!-- #primary -->
+            <div class="widget-area" id="secondary" role="complementary">
+                <aside class="widget widget_text" id="text-3">
+                    <div class="textwidget">
+                        <h2>Frågor om utbildningen?</h2><a href="mailto:studievagledare@it.uu.se">studievagledare@it.uu.se</a>
+                        <div class="widget-spacer"></div>
+                        <h2>Frågor om hemsidan?</h2><a href="mailto:dv-pr@it.uu.se">dv-pr@it.uu.se</a>
+                    </div>
+                </aside>
+                <aside class="widget stout-gc-widget" id="stout-gc-widget-3">
+                    <h2 class="widget-title">Kommande event</h2>
+					<iframe frameborder="0" height="200" scrolling="no" src="http://www.datavetenskap.nu/wp-content/plugins/stout-google-calendar/gcalendar-wrapper.php?showNav=0&hl=sv&showDate=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&mode=AGENDA&src=8r0801aqa7njmk8k7jja0gp0sg%40group.calendar.google.com&ctz=Europe/Stockholm&sgc0=333333&sgc1=d7d2c8&sgc2=f5f5dc&sgc3=d7d2c8&sgc4=ffffff&sgc5=F5F5DC&sgc6=F5F5DC&bubbleWidth=200&bubbleUnit=pixel&sgcImage=3&sgcBkgrdTrans=1" style=" border:0" width="300"></iframe>
+                </aside>
+                <aside class="widget widget_categories" id="categories-3">
+                    <h2 class="widget-title">Kategorier</h2>
+                    <ul>
+						{% for tag, articles in tags %}
+                        <li class="cat-item cat-item-1">
+							<a href="{{ BASESITE }}/{{ tag.url }}">{{ tag.name }}</a>
+                        </li>
+						{% endfor %}
+                    </ul>
+                </aside>
+            </div><!-- #secondary -->
+        </div><!-- #content -->
+        <footer class="site-footer" id="colophon" role="contentinfo">
+            <span>&copy; Uppsala Datavetare 2017</span>
+        </footer><!-- #colophon -->
+    </div><!-- #page -->
+    <script src='http://www.datavetenskap.nu/wp-content/themes/datavetenskap-nu/js/jquery.min.js?ver=20151027' type='text/javascript'>
+    </script>
+    <script src='http://www.datavetenskap.nu/wp-content/themes/datavetenskap-nu/js/navigation.js?ver=20120206' type='text/javascript'>
+    </script>
+    <script src='http://www.datavetenskap.nu/wp-content/themes/datavetenskap-nu/js/scripts.js?ver=20130115' type='text/javascript'>
+    </script>
+    <script src='http://www.datavetenskap.nu/wp-content/themes/datavetenskap-nu/js/skip-link-focus-fix.js?ver=20130115' type='text/javascript'>
+    </script>
+</body>
+</html>
