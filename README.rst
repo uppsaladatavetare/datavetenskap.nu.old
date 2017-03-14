@@ -12,14 +12,8 @@ Installation
    $ . env/bin/activate
    $ pip install -r requirements.txt
 
-Recompile upon modification:
+Recompile upon modification and serve locally:
 
 .. code-block:: bash
 
-    $ make regenerate
-
-Serve locally:
-
-.. code-block:: bash
-
-    $ make serve
+    $ make devserver
