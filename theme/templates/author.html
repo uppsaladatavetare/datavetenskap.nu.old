@@ -1,9 +1,9 @@
 {% extends "index.html" %}
-{% block title %}{{ SITENAME }} <small>{{ author }}</small>{% endblock %}
+{% block indextitle %}{{ author }} | {{ SITENAME }}{% endblock %}
 {% block body_classes %}archive category group-blog{% endblock %}
 {% block content %}
 <header class="page-header">
-	<h1 class="page-title">Författare: {{ tag }}</h1>
+	<h1 class="page-title">Författare: {{ author }}</h1>
 </header>
 {{ super() }}
 {% endblock content %}
