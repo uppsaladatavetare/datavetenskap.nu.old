@@ -30,6 +30,11 @@
     </script>
     <script src='http://www.datavetenskap.nu/wp-content/plugins/svg-support/js/svg-inline.js?ver=1.0.0' type='text/javascript'>
     </script>
+	<style>
+	.center {
+		text-align: center;
+	}
+	</style>
 </head>
 <body class="{% block body_classes %}home blog group-blog{% endblock %}">
     <div class="hfeed site" id="page">
@@ -37,20 +42,20 @@
         <header class="site-header" id="masthead" role="banner">
             <div class="wrapper">
 				<a href="{{ SITEURL }}/" rel="home"><img height="50" src="http://www.datavetenskap.nu/wp-content/themes/datavetenskap-nu/img/logo.svg"></a>
-            </div><!-- .wrapper -->
+            </div>
             <nav class="main-navigation" id="site-navigation" role="navigation">
                 <button aria-controls="primary-menu" aria-expanded="false" class="menu-toggle">Primary Menu</button>
 				{% include "menu.html" %}
-            </nav><!-- #site-navigation -->
-            <div class="spacer"></div><!-- not sure if needed! -->
-        </header><!-- #masthead -->
+            </nav>
+            <div class="spacer"></div>
+        </header>
         <div class="site-content" id="content">
             <div class="container" id="primary">
                 <main class="site-main" id="main" role="main">
 					{% block content %}
 					{% endblock content %}
-                </main><!-- #main -->
-            </div><!-- #primary -->
+                </main>
+            </div>
             <div class="widget-area" id="secondary" role="complementary">
                 <aside class="widget widget_text" id="text-3">
                     <div class="textwidget">
@@ -66,19 +71,19 @@
                 <aside class="widget widget_categories" id="categories-3">
                     <h2 class="widget-title">Kategorier</h2>
                     <ul>
-						{% for tag, articles in tags %}
+						{% for tag, articles in tags|sort %}
                         <li class="cat-item cat-item-1">
 							<a href="{{ BASESITE }}/{{ tag.url }}">{{ tag.name }}</a>
                         </li>
 						{% endfor %}
                     </ul>
                 </aside>
-            </div><!-- #secondary -->
-        </div><!-- #content -->
+            </div>
+        </div>
         <footer class="site-footer" id="colophon" role="contentinfo">
             <span>&copy; Uppsala Datavetare 2017</span>
-        </footer><!-- #colophon -->
-    </div><!-- #page -->
+        </footer>
+    </div>
     <script src='http://www.datavetenskap.nu/wp-content/themes/datavetenskap-nu/js/jquery.min.js?ver=20151027' type='text/javascript'>
     </script>
     <script src='http://www.datavetenskap.nu/wp-content/themes/datavetenskap-nu/js/navigation.js?ver=20120206' type='text/javascript'>

@@ -1,3 +1,6 @@
 env/
 output/
+
 *.pyc
+
+srv.pid
