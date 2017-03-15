@@ -363,7 +363,7 @@ html {
 }
 
 body {
-  background: url(img/bg_alt.jpg) #111 fixed 50% 80%;
+  background: url(/theme/img/bg_alt.jpg) #111 fixed 50% 80%;
   background-size: cover;
   margin: 0;
 }
