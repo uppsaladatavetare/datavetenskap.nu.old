@@ -9,7 +9,7 @@ before_install:
 install:
   - pip install -r requirements.txt
   - pip install ghp-import==0.5.5
-script: echo 'ok'
+script: make html
 after_success:
   - git remote set-url origin $(git remote -v | head -n 1 | cut -f2 | cut -d' ' -f1
     | sed 's/https:\/\//ssh:\/\/git@/g')
