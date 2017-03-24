@@ -5,7 +5,7 @@
  * support for dropdown menus.
  */
 ( function() {
-	var container, button, menu, links, subMenus;
+	var container, button, menu, links, subMenus, path;
 
 	container = document.getElementById( 'site-navigation' );
 	if ( ! container ) {
@@ -45,6 +45,25 @@
 	// Get all the link elements within the menu.
 	links    = menu.getElementsByTagName( 'a' );
 	subMenus = menu.getElementsByTagName( 'ul' );
+	path = window.location.pathname.replace(/\/$/, "");
+
+	var menu_items = jQuery('#primary-menu a');
+	if (path.length == 0) {
+		jQuery('.menu-item-home').toggleClass('current_page_item');
+	} else {
+		menu_items.each(function() {
+			var anchor_path = jQuery(this)[0].pathname.replace(/\/$/, "");
+			if (anchor_path == path) {
+				jQuery(this).parents('.menu-item').each(function() {
+					jQuery(this).toggleClass('current_page_item');
+				});
+			}
+		});
+	}
+	var menu_items = jQuery('#primary-menu li .current_page_item');
+	if (menu_items.length == 0) {
+		jQuery('.menu-item-home').toggleClass('current_page_item');
+	}
 
 	// Set menu items with submenus to aria-haspopup="true".
 	for ( var i = 0, len = subMenus.length; i < len; i++ ) {
