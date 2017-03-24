@@ -49,20 +49,20 @@
 
 	var menu_items = jQuery('#primary-menu a');
 	if (path.length == 0) {
-		jQuery('.menu-item-home').toggleClass('current_page_item');
+		jQuery('.menu-item-home').addClass('current_page_item');
 	} else {
 		menu_items.each(function() {
 			var anchor_path = jQuery(this)[0].pathname.replace(/\/$/, "");
 			if (anchor_path == path) {
 				jQuery(this).parents('.menu-item').each(function() {
-					jQuery(this).toggleClass('current_page_item');
+					jQuery(this).addClass('current_page_item');
 				});
 			}
 		});
 	}
-	var menu_items = jQuery('#primary-menu li .current_page_item');
+	var menu_items = jQuery('#primary-menu .current_page_item');
 	if (menu_items.length == 0) {
-		jQuery('.menu-item-home').toggleClass('current_page_item');
+		jQuery('.menu-item-home').addClass('current_page_item');
 	}
 
 	// Set menu items with submenus to aria-haspopup="true".
