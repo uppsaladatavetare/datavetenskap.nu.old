@@ -18,7 +18,7 @@ Protokoll samt bilagor från Stormötet den 28 oktober.
 **Bilagor:**
 
 `motion-gallande-stadgeandring (Bilaga
-1) <https://drive.google.com/open?id=0BzKA7EMuc2CKeEdaZTJua2VFV28.pdf>`__
+1) <https://drive.google.com/open?id=0BzKA7EMuc2CKeEdaZTJua2VFV28>`__
 
 `motion-gallande-stadgeandringar (Bilaga
 2) <https://drive.google.com/open?id=0BzKA7EMuc2CKem44cGJkc2d2d2c>`__
