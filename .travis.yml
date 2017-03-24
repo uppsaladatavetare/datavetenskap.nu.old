@@ -1,0 +1,12 @@
+language: python
+branches:
+  only:
+    - migration
+before_install:
+  - openssl aes-256-cbc -K $encrypted_a3a0b17df97e_key -iv $encrypted_a3a0b17df97e_iv
+    -in .deploy_key.enc -out ~/.ssh/id_rsa -d
+  - chmod 600 ~/.ssh/id_rsa
+install:
+  - pip install -r requirements.txt
+after_success:
+  - make publish github
