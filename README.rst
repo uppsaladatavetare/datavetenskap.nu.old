@@ -6,7 +6,7 @@ Welcome to the repository for Uppsala University's Computer Scientists web page.
 Why not just use WordPress?
 ===========================
 
-WordPress is a cool piece of software, but is a bit of an overkill for our simple site that is basically static. This repository is basically a bunch of .rst files that get transformed into a real webpage using Pelican_ which is a static site generator, written in Python_.
+WordPress is a cool piece of software, but is a bit of an overkill for our simple site that is basically static. What we do here instead is to store all the content in form of text files (in reStructuredText_) and transform them into a static webpage using Pelican_. The main advantage of this approach is that we now get a site that anyone can contribute to in a controllable manner (contributions are done using pull requests that need to be merged by us). 
 
 Can I contribute?
 =================
