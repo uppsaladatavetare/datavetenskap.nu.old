@@ -1,9 +1,7 @@
 datavetenskap.nu_
-######
+################
 
 Welcome to the repository for Uppsala University's Computer Scientists web page.
-
-TODO: A bit more intro about 
 
 How do I contribute?
 ====================
