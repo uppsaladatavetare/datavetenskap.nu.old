@@ -40,7 +40,7 @@ Installation
 
     $ git clone git@github.com:uppsaladatavetare/datavetenskap.nu.git
     $ cd datavetenskap.nu
-    $ virtualenv -p /usr/local/bin/python3.6 env
+    $ virtualenv env
     $ . env/bin/activate
     $ pip install -r requirements.txt
 
