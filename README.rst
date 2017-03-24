@@ -3,15 +3,17 @@ datavetenskap.nu_
 
 Welcome to the repository for Uppsala University's Computer Scientists web page.
 
+TODO: A bit intro about 
+
 Why not just use WordPress?
 ===========================
 
-WordPress is a cool piece of software, but is a bit of an overkill for our simple site that is basically static. What we do here instead is to store all the content in form of text files (in reStructuredText_) and transform them into a static webpage using Pelican_. The main advantage of this approach is that we now get a site that anyone can contribute to in a controllable manner (contributions are done using pull requests that need to be merged by us). 
-
-Can I contribute?
-=================
-
-Yes, anyone is welcome to contribute.
+WordPress is a cool piece of software, but is a bit of an overkill for our
+simple site that is basically static. What we do here instead is to store all
+the content in form of text files (in reStructuredText_) and transform them
+into a static webpage using Pelican_. The main advantage of this approach is
+that we now get a site that anyone can contribute to in a controllable manner
+(contributions are done using pull requests that need to be merged by us). 
 
 How do I contribute?
 ====================
@@ -29,9 +31,10 @@ How do I contribute?
 
 Easy!
 
-As soon the managers have reviewed, accepted and merged your content it'll appear on our website.
-They can also request some changes, where they fit appropriate, which you would have to fix, if
-you want your content to end up on the site.
+As soon the managers have reviewed, accepted and merged your contribution it'll
+appear on our website. They can also request some changes, where they fit
+appropriate, which you would have to fix, if you want your content to end up on
+the site.
 
 Installation
 ============
