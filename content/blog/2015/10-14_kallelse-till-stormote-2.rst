@@ -29,9 +29,9 @@ Blad1 <https://drive.google.com/open?id=0BzKA7EMuc2CKSmVJamdBUGg1eXM>`__
 
 `motion-gallande-val-1 <https://drive.google.com/open?id=0BzKA7EMuc2CKVlQwbU9WSnllN28>`__
 
-`stormote\_2015\_10-28\_r.odt <http://www.datavetenskap.nu/wp-content/uploads/2015/10/stormote_2015_10-28_r.odt.docx>`__
+`stormote\_2015\_10-28\_r.odt <https://drive.google.com/open?id=0BzKA7EMuc2CKSW9uMVdSREh6SkU>`__
 
-`ud\_verksamhetsplan\_2016\_r.odt <http://www.datavetenskap.nu/wp-content/uploads/2015/10/ud_verksamhetsplan_2016_r.odt.docx>`__
+`ud\_verksamhetsplan\_2016\_r.odt <https://drive.google.com/open?id=0BzKA7EMuc2CKS0hwcFNOeFk1WUU>`__
 
 .. |dvmeetsmall| image:: http://www.datavetenskap.nu/wp-content/uploads/2015/10/dv_meet_small.png
    :class: alignnone size-full wp-image-1078
