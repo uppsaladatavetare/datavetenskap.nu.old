@@ -8,5 +8,6 @@ before_install:
   - chmod 600 ~/.ssh/id_rsa
 install:
   - pip install -r requirements.txt
+script: echo 'ok'
 after_success:
   - make publish github
