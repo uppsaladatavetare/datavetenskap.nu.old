@@ -50,6 +50,8 @@ Recompile upon modification and serve locally:
 
     $ make devserver
 
+The site should be available at http://localhost:8000.
+
 
 .. _Pelican: http://docs.getpelican.com/en/stable/
 .. _Python: http://www.python.org/
