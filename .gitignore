@@ -3,4 +3,6 @@ output/
 
 *.pyc
 
+.DS_Store
 srv.pid
+pelican.pid
