@@ -18,14 +18,16 @@ How do I contribute?
 
 **Note:** Installation instructions can be found a bit further down
 
-1. You clone this repository
-2. You set up a new branch 
-3. Create a reStructuredText(rst_) file with your own content 
-4. Push the content to your newly created branch
-5. Create a pull request setting the target branch to ``origin/master``
-6. Await approval from one of the managers
+1. Fork this repositry.
+2. Clone your fork: ``git clone git@github.com:YOUR_USERNAME/datavetenskap.nu.git``
+3. Create a new branch: ``git checkout -b some-improvement``
+4. Create a reStructuredText_ file with your own content (
+5. Commit the changes. 
+6. Push the changes to your fork.
+7. Create a pull request and set the target branch to ``origin/master``.
+8. Await approval from one of the members of `@uppsaladatavetare/website-managers`_.
 
-Easy! I know.
+Easy!
 
 As soon the managers have reviewed, accepted and merged your content it'll appear on our website.
 They can also request some changes, where they fit appropriate, which you would have to fix, if
@@ -52,4 +54,5 @@ Recompile upon modification and serve locally:
 .. _Pelican: http://docs.getpelican.com/en/stable/
 .. _Python: http://www.python.org/
 .. _datavetenskap.nu: http://www.datavetenskap.nu/
-.. _rst: http://docutils.sourceforge.net/rst.html
+.. _reStructuredText: http://docutils.sourceforge.net/rst.html
+.. _`@uppsaladatavetare/website-managers`: https://github.com/orgs/uppsaladatavetare/teams/website-managers
