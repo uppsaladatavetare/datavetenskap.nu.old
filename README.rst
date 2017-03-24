@@ -1,20 +1,20 @@
 datavetenskap.nu_
-================
+######
 
 Welcome to the repository for Uppsala University's Computer Scientists web page.
 
-What is acting behind this?
+Why not just use WordPress?
 ===========================
 
-Our website is built with Pelican_ which is a static site generator, written in Python_.
+A REASON HERE. Our website is built with Pelican_ which is a static site generator, written in Python_.
 
 Can I contribute?
------------------
+=================
 
 Yes, anyone is welcome to contribute.
 
 How do I contribute?
---------------------
+====================
 
 **Note:** Installation instructions can be found a bit further down
 
@@ -38,17 +38,19 @@ Installation
 
 .. code-block:: bash
 
-   $ git clone git@github.com:uppsaladatavetare/datavetenskap.nu.git
-   $ cd datavetenskap.nu
-   $ virtualenv -p /usr/local/bin/python3.6 env
-   $ . env/bin/activate
-   $ pip install -r requirements.txt
+    $ git clone git@github.com:uppsaladatavetare/datavetenskap.nu.git
+    $ cd datavetenskap.nu
+    $ virtualenv env
+    $ . env/bin/activate
+    $ pip install -r requirements.txt
 
 Recompile upon modification and serve locally:
 
 .. code-block:: bash
 
     $ make devserver
+
+The site should be available at http://localhost:8000.
 
 
 .. _Pelican: http://docs.getpelican.com/en/stable/
