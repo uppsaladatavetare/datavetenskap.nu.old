@@ -8,6 +8,7 @@ before_install:
   - chmod 600 ~/.ssh/id_rsa
 install:
   - pip install -r requirements.txt
+  - pip install ghp-import==0.5.5
 script: echo 'ok'
 after_success:
   - make publish github
