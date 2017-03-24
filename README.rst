@@ -11,7 +11,9 @@ How do I contribute?
 1. Fork this repositry.
 2. Clone your fork: ``git clone git@github.com:YOUR_USERNAME/datavetenskap.nu.git``
 3. Create a new branch: ``git checkout -b some-improvement``
-4. Create a reStructuredText_ file with your own content.
+4. Create a reStructuredText_ file with your own content:
+    - **Blog post** at ``content/blog/YEAR/MONTH/DAY-SLUG.rst``
+    - **Article** at ``content/article/SLUG.rst``
 5. Commit the changes. 
 6. Push the changes to your fork.
 7. Create a pull request and set the target branch to ``origin/master``.
