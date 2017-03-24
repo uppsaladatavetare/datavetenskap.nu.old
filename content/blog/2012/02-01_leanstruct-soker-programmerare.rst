@@ -15,4 +15,4 @@ potential till effektivisering inom byggbranschen med hjälp av ny
 teknik.
 
 Mer info finns
-`här <http://datavetenskap.nu/pics/LeanStruct%20s%C3%B6ker%20programmerare.pdf>`__.
+`här <https://drive.google.com/open?id=0BzKA7EMuc2CKTjQwRG5TWGRuOTg>`__.

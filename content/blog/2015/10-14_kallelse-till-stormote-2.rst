@@ -19,15 +19,15 @@ På stormötet kommer det att bjudas på enklare fika.
 UPPDATERING ! Vi kommer att hålla till i 1111 på ITC.
 
 `Budgetförslag 2016 –
-Blad1 <http://www.datavetenskap.nu/wp-content/uploads/2015/10/Budgetförslag-2016-Blad1.pdf>`__
+Blad1 <https://drive.google.com/open?id=0BzKA7EMuc2CKSmVJamdBUGg1eXM>`__
 
-`motion-gallande-stadgeandring <http://www.datavetenskap.nu/wp-content/uploads/2015/10/motion-gallande-stadgeandring.pdf>`__
+`motion-gallande-stadgeandring <https://drive.google.com/open?id=0BzKA7EMuc2CKTzFkaThkSUJWNTA>`__
 
-`motion-gallande-stadgeandringar <http://www.datavetenskap.nu/wp-content/uploads/2015/10/motion-gallande-stadgeandringar.pdf>`__
+`motion-gallande-stadgeandringar <https://drive.google.com/open?id=0BzKA7EMuc2CKd2w4RjVSTm1RMXc>`__
 
-`motion-gallande-val <http://www.datavetenskap.nu/wp-content/uploads/2015/10/motion-gallande-val.pdf>`__
+`motion-gallande-val <https://drive.google.com/open?id=0BzKA7EMuc2CKLVdUZjhlYVJVRmc>`__
 
-`motion-gallande-val-1 <http://www.datavetenskap.nu/wp-content/uploads/2015/10/motion-gallande-val-1.pdf>`__
+`motion-gallande-val-1 <https://drive.google.com/open?id=0BzKA7EMuc2CKVlQwbU9WSnllN28>`__
 
 `stormote\_2015\_10-28\_r.odt <http://www.datavetenskap.nu/wp-content/uploads/2015/10/stormote_2015_10-28_r.odt.docx>`__
 

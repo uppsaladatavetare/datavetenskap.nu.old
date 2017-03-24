@@ -10,11 +10,11 @@ Läsvärda dokument inför stormötet
 Följande dokument kan vara bra att läsa igenom till stormötet!
 
 | `Mötesprotokoll Stormöte
-  2014-03-26 <http://www.datavetenskap.nu/wp-content/uploads/2014/03/stormote140326.pdf>`__
+  2014-03-26 <https://drive.google.com/open?id=0BzKA7EMuc2CKQTBJZHpMVFh4Vm8>`__
 | `Budget
-  2014 <http://www.datavetenskap.nu/wp-content/uploads/2014/03/Budget-2014.pdf>`__
+  2014 <https://drive.google.com/open?id=0BzKA7EMuc2CKNlJFVXlvRkVTc2s>`__
 | `Ekonomisk
-  berättelse <http://www.datavetenskap.nu/wp-content/uploads/2014/03/Ekonomisk-berättelse.pdf>`__
-| `Verksamhetsberättelse <http://www.datavetenskap.nu/wp-content/uploads/2014/03/Verksamhets.pdf>`__
+  berättelse <https://drive.google.com/open?id=0BzKA7EMuc2CKY05mRm1IVkZtZnc>`__
+| `Verksamhetsberättelse <https://drive.google.com/open?id=0BzKA7EMuc2CKY1k3Q1VrNHI0WjQ>`__
 
 Vi ses där!

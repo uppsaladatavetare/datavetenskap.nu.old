@@ -12,13 +12,13 @@ Kallelse till Stormöte
  
 
 `Föredragningslista för höstmötet
-2016 <http://www.datavetenskap.nu/wp-content/uploads/2016/11/foredragningslista-hostmote-2016.pdf>`__
+2016 <https://drive.google.com/open?id=0BzKA7EMuc2CKOVl3eVR0M3MxbGs>`__
 
 `Styrelsens förslag till verksamhetsplan
-2017 <http://www.datavetenskap.nu/wp-content/uploads/2016/11/verksamhetsplan-ud-2017.pdf>`__
+2017 <https://drive.google.com/open?id=0BzKA7EMuc2CKQ1U4YkdBQVBCZjA>`__
 
 `Styrelsens förslag till budget
-2017 <http://www.datavetenskap.nu/wp-content/uploads/2016/11/Budget-2017-Blad1.pdf>`__
+2017 <https://drive.google.com/open?id=0BzKA7EMuc2CKY1BnSzFTYXF6dDg>`__
 
 `Proposition gällande konsekvent språkval om val i
-reglementet <http://www.datavetenskap.nu/wp-content/uploads/2016/11/prop-gallande-sprak.pdf>`__
+reglementet <https://drive.google.com/open?id=0BzKA7EMuc2CKRWNLTXptUndYcEU>`__

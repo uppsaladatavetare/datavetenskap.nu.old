@@ -17,7 +17,7 @@ följande länk: `Matanmälan till
 stormöte <http://goo.gl/forms/oEKN0U5ZiA>`__
 
 Föredragningslistan finner du här: `Stormöte 12 November,
-Föredragningslista <http://www.datavetenskap.nu/wp-content/uploads/2014/10/stormote_20141112.pdf>`__
+Föredragningslista <https://drive.google.com/open?id=0BzKA7EMuc2CKZkkwZVRCMElFbVU>`__
 
 Om man har några frågor eller om man vill kandidera någon så kan man
 höra av sig till valfri person i styrelsen, men det går också bra att

@@ -13,27 +13,27 @@ Protokoll samt bilagor från Stormötet den 28 oktober.
 
 **Protokoll:**
 
-`Stormötesprotokoll\_2015\_10\_28 <http://www.datavetenskap.nu/wp-content/uploads/2015/11/Stormötesprotokoll_2015_10_28.pdf>`__
+`Stormötesprotokoll\_2015\_10\_28 <https://drive.google.com/open?id=0BzKA7EMuc2CKQUEwOE92X3ZMbHM>`__
 
 **Bilagor:**
 
 `motion-gallande-stadgeandring (Bilaga
-1) <http://www.datavetenskap.nu/wp-content/uploads/2015/11/motion-gallande-stadgeandring-Bilaga-1.pdf>`__
+1) <https://drive.google.com/open?id=0BzKA7EMuc2CKeEdaZTJua2VFV28.pdf>`__
 
 `motion-gallande-stadgeandringar (Bilaga
-2) <http://www.datavetenskap.nu/wp-content/uploads/2015/11/motion-gallande-stadgeandringar-Bilaga-2.pdf>`__
+2) <https://drive.google.com/open?id=0BzKA7EMuc2CKem44cGJkc2d2d2c>`__
 
 `motion-gallande-val-1 ( Bilaga
-3) <http://www.datavetenskap.nu/wp-content/uploads/2015/11/motion-gallande-val-1-Bilaga-3.pdf>`__
+3) <https://drive.google.com/open?id=0BzKA7EMuc2CKY2RhSXF4REpMa2M>`__
 
 `motion-gallande-val(bilaga
-4) <http://www.datavetenskap.nu/wp-content/uploads/2015/11/motion-gallande-valbilaga-4.pdf>`__
+4) <https://drive.google.com/open?id=0BzKA7EMuc2CKbWdpME5Yd3hXdms>`__
 
 `ud\_verksamhetsplan\_2016 ( bilaga
-5) <http://www.datavetenskap.nu/wp-content/uploads/2015/11/ud_verksamhetsplan_2016-bilaga-5.pdf>`__
+5) <https://drive.google.com/open?id=0BzKA7EMuc2CKaVp2STJNX1ZWa1k>`__
 
 `Budget 2016 ( bilaga
-6) <http://www.datavetenskap.nu/wp-content/uploads/2015/11/Budget-2016-bilaga-6.pdf>`__
+6) <https://drive.google.com/open?id=0BzKA7EMuc2CKd3p3QkVVOWZjR1E>`__
 
 .. |dv_meet_small| image:: http://www.datavetenskap.nu/wp-content/uploads/2015/10/dv_meet_small.png
    :class: alignnone size-full wp-image-1078

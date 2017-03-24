@@ -10,4 +10,4 @@ Mötesprotokoll Stormötet
 Här kommer protokollet från årets höstmöte.
 
 `Protokoll för höstmötet
-2016 <http://www.datavetenskap.nu/wp-content/uploads/2016/12/motesprotokoll_hostmote2016_UD.pdf>`__
+2016 <https://drive.google.com/open?id=0BzKA7EMuc2CKOVJOVi10Nnd3WDg>`__

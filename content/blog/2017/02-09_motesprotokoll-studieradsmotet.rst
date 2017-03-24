@@ -9,4 +9,4 @@ Mötesprotokoll Studierådsmötet
 
 Nedan ser ni protokollet från senaste studierådsmötet.
 
-`2017-02-06 <http://www.datavetenskap.nu/wp-content/uploads/2011/11/Protokoll_studier_d_6_2_17.pdf>`__
+`2017-02-06 <https://drive.google.com/open?id=0BzKA7EMuc2CKcHcteFU5SzRGMWM>`__
