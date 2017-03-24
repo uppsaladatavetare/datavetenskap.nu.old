@@ -21,7 +21,7 @@ Här är handlingarna som kommer tas upp på mötet:
 | `Vårmötets
   Föredragslista <https://drive.google.com/open?id=0BzKA7EMuc2CKVFpxRlliUGdRR28>`__
 
-.. |varmote| image:: http://www.datavetenskap.nu/wp-content/uploads/2016/04/Vårmöte-UD.png
+.. |varmote| image:: /images/Vårmöte-UD.png
    :class: alignnone size-full wp-image-1078
    :width: 460px
-   :target: http://www.datavetenskap.nu/wp-content/uploads/2016/04/Vårmöte-UD.png
+   :target: /images/Vårmöte-UD.png

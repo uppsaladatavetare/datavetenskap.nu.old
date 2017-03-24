@@ -15,4 +15,4 @@ stormöten per år. Höstmötet tillsätter nya styrelsen som går på efter
 nyår och vårmötet går igenom verksamhetsberättelsen, bokslut och
 revisionsberättelsen för föregående år.
 
-.. |UD-logga| image:: http://www.datavetenskap.nu/wp-content/uploads/2014/10/ud.png
+.. |UD-logga| image:: /images/ud.png

@@ -15,7 +15,7 @@ just nu grymma iOS- och backendutvecklare.
 | info@wahoo.se
 | |logoA5|
 
-.. |logoA5| image:: http://www.datavetenskap.nu/wp-content/uploads/2015/05/logoA5.png
+.. |logoA5| image:: /images/logoA5.png
    :class: aligncenter size-full wp-image-1055
    :width: 397px
    :target: http://wahoo.se/

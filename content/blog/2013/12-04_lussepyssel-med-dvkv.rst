@@ -30,6 +30,6 @@ Så ta med er erat juligaste humör samt ärlighet så ses vi där!
 
 http://www.facebook.com/events/205168243000298/
 
-.. |:)| image:: http://www.datavetenskap.nu/wp-includes/images/smilies/icon_smile.gif
+.. |:)| image:: /images/icon_smile.gif
    :class: wp-smiley
 

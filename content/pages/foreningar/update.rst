@@ -20,4 +20,4 @@ mäter våra skägg.
 För vidare information kan man besöka t-salen i rum 1015 på ITC eller
 `hemsidan <http://www.update.uu.se/>`__.
 
-.. |Update-logga| image:: http://www.datavetenskap.nu/wp-content/uploads/2011/09/UP4-logo.gif
+.. |Update-logga| image:: /images/UP4-logo.gif

@@ -30,6 +30,6 @@ Det är ett begränsat antal platser per program, först till kvarn!
 
 Välkommen!
 
-.. |:)| image:: http://www.datavetenskap.nu/wp-includes/images/smilies/icon_smile.gif
+.. |:)| image:: /images/icon_smile.gif
    :class: wp-smiley
 

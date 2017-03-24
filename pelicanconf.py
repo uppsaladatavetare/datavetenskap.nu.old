@@ -9,7 +9,7 @@ SITEURL = ''
 PLUGINS = ['pelican_edit_url']
 
 PATH = 'content'
-#STATIC_PATHS = ['static']
+STATIC_PATHS = ['images']
 
 TIMEZONE = 'Europe/Stockholm'
 

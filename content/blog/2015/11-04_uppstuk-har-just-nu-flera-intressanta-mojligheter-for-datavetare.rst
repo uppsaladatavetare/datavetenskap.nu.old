@@ -38,7 +38,7 @@ Uppstuk
 
 |Uppstuk_ny2015_med_text_under_v2_medium|
 
-.. |Uppstuk_ny2015_med_text_under_v2_medium| image:: http://www.datavetenskap.nu/wp-content/uploads/2015/11/Uppstuk_ny2015_med_text_under_v2_medium.png
+.. |Uppstuk_ny2015_med_text_under_v2_medium| image:: /images/Uppstuk_ny2015_med_text_under_v2_medium.png
    :class: size-full wp-image-1118 alignleft
    :width: 500px
-   :target: http://www.datavetenskap.nu/wp-content/uploads/2015/11/Uppstuk_ny2015_med_text_under_v2_medium.png
+   :target: /images/Uppstuk_ny2015_med_text_under_v2_medium.png

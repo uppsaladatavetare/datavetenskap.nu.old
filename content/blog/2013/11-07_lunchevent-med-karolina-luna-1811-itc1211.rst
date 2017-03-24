@@ -35,6 +35,6 @@ Curious? Please join and ask your questions!
 | Självklart bjuds det på lunch om du anmäler det och det gör du
   `här! <http://www.datavetenskap.nu/anmalan>`__ |:)|
 
-.. |:)| image:: http://www.datavetenskap.nu/wp-includes/images/smilies/icon_smile.gif
+.. |:)| image:: /images/icon_smile.gif
    :class: wp-smiley
 

@@ -19,7 +19,7 @@ plagg/overall är ju också typiskt bra.
 
 `Facebook eventet <https://www.facebook.com/events/292130610927484/>`__
 
-.. |image0| image:: http://www.datavetenskap.nu/wp-content/uploads/2013/09/pubrunda25-09-13-724x1024.png
+.. |image0| image:: /images/pubrunda25-09-13-724x1024.png
    :class: alignnone size-large wp-image-688
    :width: 600px
-   :target: http://www.datavetenskap.nu/wp-content/uploads/2013/09/pubrunda25-09-13.png
+   :target: /images/pubrunda25-09-13.png

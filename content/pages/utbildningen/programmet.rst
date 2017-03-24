@@ -66,4 +66,4 @@ man blivit klar med exjobbet.
 
 .. |KursplanDVK1| image:: http://user.it.uu.se/~krau6498/saker/kursplan1-01.jpg
 .. |KursplanDVK2| image:: http://user.it.uu.se/~krau6498/saker/kursplan1-02.jpg
-.. |KursplanDVK3| image:: http://www.datavetenskap.nu/pics/kursplan1-03.jpg
+.. |KursplanDVK3| image:: /images/kursplan1-03.jpg

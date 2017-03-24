@@ -33,7 +33,7 @@ Blad1 <https://drive.google.com/open?id=0BzKA7EMuc2CKSmVJamdBUGg1eXM>`__
 
 `ud\_verksamhetsplan\_2016\_r.odt <https://drive.google.com/open?id=0BzKA7EMuc2CKS0hwcFNOeFk1WUU>`__
 
-.. |dvmeetsmall| image:: http://www.datavetenskap.nu/wp-content/uploads/2015/10/dv_meet_small.png
+.. |dvmeetsmall| image:: /images/dv_meet_small.png
    :class: alignnone size-full wp-image-1078
    :width: 460px
-   :target: http://www.datavetenskap.nu/wp-content/uploads/2015/10/dv_meet_small.png
+   :target: /images/dv_meet_small.png

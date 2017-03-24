@@ -35,7 +35,7 @@ Protokoll samt bilagor från Stormötet den 28 oktober.
 `Budget 2016 ( bilaga
 6) <https://drive.google.com/open?id=0BzKA7EMuc2CKd3p3QkVVOWZjR1E>`__
 
-.. |dv_meet_small| image:: http://www.datavetenskap.nu/wp-content/uploads/2015/10/dv_meet_small.png
+.. |dv_meet_small| image:: /images/dv_meet_small.png
    :class: alignnone size-full wp-image-1078
    :width: 460px
-   :target: http://www.datavetenskap.nu/wp-content/uploads/2015/10/dv_meet_small.png
+   :target: /images/dv_meet_small.png

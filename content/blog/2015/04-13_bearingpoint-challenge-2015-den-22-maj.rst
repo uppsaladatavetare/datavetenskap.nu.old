@@ -38,11 +38,11 @@ the participants.
 
 |Student-quote-image|
 
-.. |BENO1510-BE-challenge-email-banner| image:: http://www.datavetenskap.nu/wp-content/uploads/2015/04/BENO1510-BE-challenge-email-banner.gif
+.. |BENO1510-BE-challenge-email-banner| image:: /images/BENO1510-BE-challenge-email-banner.gif
    :class: aligncenter size-full wp-image-1033
    :width: 600px
-   :target: http://www.datavetenskap.nu/wp-content/uploads/2015/04/BENO1510-BE-challenge-email-banner.gif
-.. |Student-quote-image| image:: http://www.datavetenskap.nu/wp-content/uploads/2015/04/Student-quote-image.gif
+   :target: /images/BENO1510-BE-challenge-email-banner.gif
+.. |Student-quote-image| image:: /images/Student-quote-image.gif
    :class: aligncenter size-full wp-image-1034
    :width: 600px
-   :target: http://www.datavetenskap.nu/wp-content/uploads/2015/04/Student-quote-image.gif
+   :target: /images/Student-quote-image.gif
