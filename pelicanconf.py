@@ -6,7 +6,10 @@ AUTHOR = 'Uppsala Datavetare'
 SITENAME = 'Datavetenskap.nu'
 SITEURL = ''
 
+PLUGINS = ['pelican_edit_url']
+
 PATH = 'content'
+#STATIC_PATHS = ['static']
 
 TIMEZONE = 'Europe/Stockholm'
 
@@ -18,16 +21,6 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-
-# Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
-
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -42,6 +35,15 @@ AUTHOR_SAVE_AS = 'author/{slug}.html'
 PAGE_URL = '{slug}'
 PAGE_SAVE_AS = '{slug}/index.html'
 TAG_URL = 'event/category/{slug}'
-TAG_SAVE_AS = 'event/category/{slug}.html'
+TAG_SAVE_AS = 'event/category/{slug}/index.html'
+CATEGORY_URL = '_category/{slug}'
+CATEGORY_SAVE_AS = '_category/{slug}/index.html'
+
+PAGINATION_PATTERNS = (
+    (1, '{name}/', '{name}.html'),
+    (2, '{name}/page/{number}/', '{base_name}/page/{number}/index.html'),
+)
 
 THEME = 'theme'
+
+EDIT_CONTENT_URL = 'https://github.com/uppsaladatavetare/datavetenskap.nu/blob/master/{file_path}'

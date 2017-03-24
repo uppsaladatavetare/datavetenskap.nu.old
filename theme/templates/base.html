@@ -6,6 +6,7 @@
 	<title>{% block indextitle %}{{ SITENAME }} | Datavetenskapsprogrammet Uppsala{% endblock %}</title>
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C600%7CLora%3A400%2C400italic&#038;ver=4.1.16' id='webfonts-css' media='all' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" id='datavetenskap-nu-style-css' media='all' rel='stylesheet' type='text/css'>
+	<script src="https://use.fontawesome.com/76d6b30b54.js"></script>
     <script type='text/javascript'>
     /* <![CDATA[ */
     var ko_calendar_loc = {"all_day":"All Day","all_day_event":"All Day Event"};
@@ -68,7 +69,12 @@
             </div>
         </div>
         <footer class="site-footer" id="colophon" role="contentinfo">
-            <span>&copy; Uppsala Datavetare 2017</span>
+            <div class="left">&copy; Uppsala Datavetare 2017</div>
+			<div class="right edit">
+				{% if page and page.edit_url %}
+				<a href="{{ page.edit_url }}"><i class="fa fa-github" aria-hidden="true"></i> Edit on GitHub</a>
+				{% endif %}
+			</div>
         </footer>
     </div>
     <script src='{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/navigation.js?ver=20120206' type='text/javascript'>

@@ -774,6 +774,23 @@ a:active {
 	padding: 10px;
     margin-bottom: 30vh;
 	margin-top: -15px;
+	color: #f6f6f6;
+}
+
+.site-footer .left {
+	float: left;
+}
+
+.site-footer .right {
+	float: right;
+}
+
+.site-footer .right.edit a {
+	color: #fff;
+}
+
+.site-footer .right.edit i {
+	margin-right: 5px;
 }
 
 /*--------------------------------------------------------------
