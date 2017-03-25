@@ -13,7 +13,7 @@ How do I contribute?
 3. Create a new branch: ``git checkout -b some-improvement``
 4. Create a reStructuredText_ file with your own content:
 
-   - Blog posts at ``content/blog/YEAR/MONTH/DAY-SLUG.rst``
+   - Blog posts at ``content/blog/YEAR/MONTH-DAY-SLUG.rst``
    - Articles at ``content/article/SLUG.rst``
 
 5. Commit the changes. 
