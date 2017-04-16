@@ -1,30 +1,7 @@
 datavetenskap.nu_
 ################
 
-Welcome to the repository for Uppsala University's Computer Scientists web page.
-
-How do I contribute?
-====================
-
-**Note:** Installation instructions can be found a bit further down
-
-1. Fork this repositry.
-2. Clone your fork: ``git clone git@github.com:YOUR_USERNAME/datavetenskap.nu.git``
-3. Create a new branch: ``git checkout -b some-improvement``
-4. Create a reStructuredText_ file with your own content:
-
-   - Blog posts at ``content/blog/YEAR/MONTH-DAY-SLUG.rst``
-   - Articles at ``content/article/SLUG.rst``
-
-5. Commit the changes. 
-6. Push the changes to your fork.
-7. Create a pull request and set the target branch to ``origin/master``.
-8. Await approval from one of the members of `@uppsaladatavetare/website-managers`_.
-
-As soon the managers have reviewed, accepted and merged your contribution it'll
-appear on our website. They can also request some changes, where they fit
-appropriate, which you would have to fix, if you want your content to end up on
-the site.
+Welcome to the repository containing the webpage of Computer Scientists at Uppsala University.
 
 Installation
 ============
@@ -44,6 +21,25 @@ Recompile upon modification and serve locally:
     $ make devserver
 
 The site should be available at http://localhost:8000.
+
+How do I contribute?
+====================
+
+1. Fork this repositry.
+2. Clone your fork: ``git clone git@github.com:YOUR_USERNAME/datavetenskap.nu.git``
+3. Create a new branch: ``git checkout -b some-improvement``
+4. Create a reStructuredText_ file with your own content:
+
+   - Blog posts at ``content/blog/YEAR/MONTH-DAY-SLUG.rst``
+   - Articles at ``content/article/SLUG.rst``
+
+5. Commit the changes. 
+6. Push the changes to your fork.
+7. Create a pull request and set the target branch to ``origin/master``.
+8. Await approval from one of the members of `@uppsaladatavetare/website-managers`_.
+
+As soon the managers have reviewed and merged your contribution, it will
+appear on the website.
 
 Why not just use WordPress?
 ===========================
