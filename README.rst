@@ -22,6 +22,13 @@ Recompile upon modification and serve locally:
 
 The site should be available at http://localhost:8000.
 
+When you are done, stop the server:
+
+.. code-block:: bash
+
+    $ make stopserver
+
+
 How do I contribute?
 ====================
 
