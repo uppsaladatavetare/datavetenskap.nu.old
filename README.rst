@@ -54,9 +54,7 @@ WordPress is a cool piece of software, but is a bit of an overkill for our
 simple site that is basically static. What we do here instead is to store all
 the content in form of text files (in reStructuredText_) and transform them
 into a static webpage using Pelican_. The main advantage of this approach is
-that we now get a site that anyone can contribute to in a controllable manner
-using a tool we all know (contributions are done using pull requests that need
-to be merged by us). 
+that we now get a site that anyone can easily contribute to using Git.
 
 
 .. _Pelican: http://docs.getpelican.com/en/stable/
