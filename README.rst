@@ -21,8 +21,6 @@ How do I contribute?
 7. Create a pull request and set the target branch to ``origin/master``.
 8. Await approval from one of the members of `@uppsaladatavetare/website-managers`_.
 
-Easy!
-
 As soon the managers have reviewed, accepted and merged your contribution it'll
 appear on our website. They can also request some changes, where they fit
 appropriate, which you would have to fix, if you want your content to end up on
