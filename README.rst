@@ -14,13 +14,12 @@ Installation
     $ . env/bin/activate
     $ pip install -r requirements.txt
 
-Recompile upon modification and serve locally:
+Recompile upon modification and serve locally (the site should 
+be available at http://localhost:8000):
 
 .. code-block:: bash
 
     $ make devserver
-
-The site should be available at http://localhost:8000.
 
 When you are done, stop the server:
 
