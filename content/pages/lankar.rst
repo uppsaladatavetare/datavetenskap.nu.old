@@ -3,10 +3,29 @@ Länkar
 
 :slug: student/lankar
 
-Uppsala datavetare tillhandahåller inte något eget nätverk för alumner, däremot har `Uppsala Universitet ett alumnnätverk`_ för alla som studerat, arbetar eller har arbetat vid Uppsala universitet.
+| **Blivande student**
+| `Dataiuppsala <http://www.dataiuppsala.se/>`__
 
-Även Uppsala teknolog och naturvetarkår (UTN) har ett alumnnätverk där de aktivt arbetar för att hålla god kontakt med alumner. `Se UTNs alumnsida för mer information.`_
 
+|
+| **Studier**
+| `Antagning.se <http://www.antagning.se/se/start>`__
+| `IT-institutionen <http://www.it.uu.se/>`__
+| `Schemasök <http://schema.angstrom.uu.se/4DACTION/WebShowSearch/2/1-0>`__
+| `Teknat student <http://teknat.uu.se/Student/>`__
+| `Tentamensanmälan <http://tenta.angstrom.uu.se/tenta/tentaanmalan.php>`__
 
-.. _`Uppsala Universitet ett alumnnätverk`: https://www.uu.se/alumn/Alumnnatverket/
-.. _`Se UTNs alumnsida för mer information.`: https://www.utn.se/sv/arbetsmarknad/alumn
+|
+| **Studentliv**
+| `Ergo <http://www.ergo.nu/>`__
+| `Nationsguiden <http://www.nationsguiden.se/>`__
+| `Uppsalastudent <http://uppsalastudent.com/>`__
+| `Uppsala studentkår <http://www.uppsalastudentkar.nu/>`__
+| `Uppsala teknolog- och naturvetarkår <http://www.utn.se/>`__
+
+|
+| **Bostad**
+| `Dombron <http://www.dombron.se/>`__
+| `Heimstaden <http://www.heimstaden.com/>`__
+| `Uppsalahem <http://www.uppsalahem.se/>`__
+| `Studentboet <http://studentboet.se/sv/>`__
