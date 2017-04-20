@@ -28,3 +28,4 @@ Länkar
 | `Heimstaden <http://www.heimstaden.com/>`__
 | `Uppsalahem <http://www.uppsalahem.se/>`__
 | `Studentboet <http://studentboet.se/sv/>`__
+| `Studentstaden <https://www.studentstaden.se/>`__
