@@ -13,7 +13,6 @@ Länkar
 | `IT-institutionen <http://www.it.uu.se/>`__
 | `Schemasök <https://se.timeedit.net/web/uu/db1/schema/ri1X50g61y60YvQQ05Z5067Y0.html>`__
 | `Teknat student <http://teknat.uu.se/Student/>`__
-| `Tentamensanmälan <http://tenta.angstrom.uu.se/tenta/tentaanmalan.php>`__
 
 |
 | **Studentliv**
