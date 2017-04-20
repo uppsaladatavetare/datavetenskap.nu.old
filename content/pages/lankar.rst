@@ -11,7 +11,7 @@ Länkar
 | **Studier**
 | `Antagning.se <http://www.antagning.se/se/start>`__
 | `IT-institutionen <http://www.it.uu.se/>`__
-| `Schemasök <http://schema.angstrom.uu.se/4DACTION/WebShowSearch/2/1-0>`__
+| `Schemasök <https://se.timeedit.net/web/uu/db1/schema/ri1X50g61y60YvQQ05Z5067Y0.html>`__
 | `Teknat student <http://teknat.uu.se/Student/>`__
 | `Tentamensanmälan <http://tenta.angstrom.uu.se/tenta/tentaanmalan.php>`__
 
@@ -25,7 +25,7 @@ Länkar
 
 |
 | **Bostad**
-| `Dombron <http://www.dombron.se/>`__
+| `Rikshem <http://www.dombron.se/>`__
 | `Heimstaden <http://www.heimstaden.com/>`__
 | `Uppsalahem <http://www.uppsalahem.se/>`__
 | `Studentboet <http://studentboet.se/sv/>`__
