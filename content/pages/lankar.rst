@@ -24,7 +24,7 @@ Länkar
 
 |
 | **Bostad**
-| `Rikshem <http://www.dombron.se/>`__
+| `Rikshem <https://www.rikshem.se/>`__
 | `Heimstaden <http://www.heimstaden.com/>`__
 | `Uppsalahem <http://www.uppsalahem.se/>`__
 | `Studentboet <http://studentboet.se/sv/>`__
