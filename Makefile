@@ -1,3 +1,4 @@
+
 PY?=python3
 PELICAN?=pelican
 PELICANOPTS=
@@ -120,5 +121,12 @@ cf_upload: publish
 github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) -c www.datavetenskap.nu $(OUTPUTDIR)
 	git push --force origin $(GITHUB_PAGES_BRANCH)
+
+travis_setup:
+	@openssl aes-256-cbc -K $(encrypted_a3a0b17df97e_key) -iv $(encrypted_a3a0b17df97e_iv) -in .deploy_key.enc -out ~/.ssh/id_rsa -d
+	chmod 600 ~/.ssh/id_rsa
+	git remote set-url origin $(shell git remote -v | head -n 1 | cut -f2 | cut -d' ' -f1 | sed 's/https:\/\//ssh:\/\/git@/g')
+
+travis_deploy: travis_setup github
 
 .PHONY: html help clean regenerate serve serve-global devserver stopserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
