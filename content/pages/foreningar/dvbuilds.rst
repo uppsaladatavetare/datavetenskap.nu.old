@@ -7,10 +7,13 @@ DV Builds
 
 DV Builds är ett nytt projekt från datavetarna, där vi samlas och bygger på ett eller
 flera projekt.
+Planen är att hålla en kväll i veckan/varannan vecka där vi går ihop och sitter några timmar, knackar lite kod och kanske dricker lite öl.
 Syftet med projektet är att introducera nya och gamla studenter till bidragande till Open Source projekt.
 Open source är något man ofta hör att folk uppskattar, men få tar sig tiden att bidra.
 DV Builds ger erfarenhet av att jobba på ett större projekt, men utan stressen av en deadline eller betyg.
 Gör så mycket du kan och vill! :)
+
+
 
 **Projekt**
 
