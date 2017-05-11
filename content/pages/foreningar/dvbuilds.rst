@@ -39,5 +39,6 @@ If you can think it, we can do it så att säga :)
 
 **Projekt på gång**
 
--  Musikspelare *Planerat*
--  Development blog för DV Builds
+- FooBar-kassasystemet *Pågående*
+- Musikspelare *Planerat*
+- Development blog för DV Builds
