@@ -22,7 +22,7 @@ men den som inte vill missa något får komma och delta!
 **Projektförslag**
 
 För att alla ska känna sig delaktiga så vill vi ha dina idéer.
-När vi påbörjar ett nytt projekt, kommer alla som deltar att få rösta på det projekt de tycker låter bäst,
+När vi väljer ett nytt projekt, kommer alla som deltar att få rösta på det projekt de tycker låter bäst,
 för att det ska kännas som mest givande.
 
 Tills vidare kommer vi att ta förslag på projekt under projekttillfällena, men vi ska utveckla en bättre lösning tillsammans.
