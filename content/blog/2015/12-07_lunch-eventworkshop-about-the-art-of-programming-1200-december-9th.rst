@@ -16,7 +16,7 @@ check the Facebook event for more information.
 *On Wednesday the 9th december Noric Couderc will hold a lunch
 event/workshop to talk about the art of programming at ITC, room [TBA].
 This is a joint initiative of the Gender Equality Group and the Uppsala
-University ACM-W Student Chapter (UU ACM-W). *
+University ACM-W Student Chapter (UU ACM-W).*
 
 *The event will last approximately two hours and will focus on two
 parts: (There will be a break at about 13:00, so that those who need to
@@ -26,7 +26,7 @@ leave can do so.)*
 focusing on modern art and contemporary art. And how artists can also
 benefit from using computer programming as a medium of expression.
 Second, we will talk on how computer scientists and engineers can also
-benefit from doing art using programming. *
+benefit from doing art using programming.*
 
 *Then there will be an interactive demonstration of the Processing
 framework, a programming framework that artists often use in their work,

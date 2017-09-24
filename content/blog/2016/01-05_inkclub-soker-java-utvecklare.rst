@@ -20,4 +20,4 @@ sajter alltid upplevs av våra kunder som lättanvända, lättillgängliga
 och snabba på alla typer av enheter.*
 
 *Se fullständig annons på följande
-länk: *\ `http://www.captohr.se/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=143&cntnt01origid=64&cntnt01returnid=64 <http://www.captohr.se/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=143&cntnt01origid=64&cntnt01returnid=64>`__
+länk:*\ `http://www.captohr.se/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=143&cntnt01origid=64&cntnt01returnid=64 <http://www.captohr.se/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=143&cntnt01origid=64&cntnt01returnid=64>`__

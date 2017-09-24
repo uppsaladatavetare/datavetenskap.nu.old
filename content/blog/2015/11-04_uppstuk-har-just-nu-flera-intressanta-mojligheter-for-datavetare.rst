@@ -34,7 +34,7 @@ Vänliga hälsningar, 
 
 Uppstuk
 
-*genom HR-chef Josefine Karlsson *
+*genom HR-chef Josefine Karlsson*
 
 |Uppstuk_ny2015_med_text_under_v2_medium|
 

@@ -32,7 +32,7 @@ på \ `http://talang.valtech.se/event <http://talang.valtech.se/event>`__
 
 **Den 19:e november öppnar Valtech återigen upp det Kungliga Myntet och
 bjuder på en helkväll som riktar sig till teknikstudenter på Uppsala U,
-KTH, och Linköpings U. **
+KTH, och Linköpings U.**
 
 Konceptet är enkelt. Kom och mingla med studenter från andra universitet
 och ta chansen att träffa och ställa frågor till trevliga Valtechare.
