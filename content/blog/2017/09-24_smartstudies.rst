@@ -25,7 +25,7 @@ Varje jobbtillfälle är unikt och du vet aldrig riktigt i förväg precis hur s
 
 **Ge läxhjälp när du kan**
 
-Med SmartStudies så kan du erbjuda privatundervisningen då det passar dig. Det är så pass många som behöver hjälpen att timmarna är flexibla. Du kan hjälpa till med läxhjälp under kvällar, mitt på dagen eller kanske en stund på eftermiddagen. Varje uppdrag skräddarsys efter dina och elevens behov. Ni kommer överens om var och när ni ska träffas och det fungerar mycket bra.
+Med `Smartstudies <http://smartstudies.se>`_. så kan du erbjuda privatundervisningen då det passar dig. Det är så pass många som behöver hjälpen att timmarna är flexibla. Du kan hjälpa till med läxhjälp under kvällar, mitt på dagen eller kanske en stund på eftermiddagen. Varje uppdrag skräddarsys efter dina och elevens behov. Ni kommer överens om var och när ni ska träffas och det fungerar mycket bra.
 
 **Utvecklas och lär dig att lära ut**
 
