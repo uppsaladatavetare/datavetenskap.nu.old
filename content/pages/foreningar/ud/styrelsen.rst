@@ -10,7 +10,7 @@ Styrelsen
 -  | Studierådsordförande: `Johannes Almroth </author/studieradsansvarig>`__
    | dv-sr@utn.se
 -  | Tillgångsansvarig: Alexis Remmers
-   | dv-akt@utn.se
+   | dv-stuff@utn.se
 -  | Klubbmästare: Simon Berntsson
    | dv-klubb@utn.se
 -  | Sekreterare: Benjamin Ek
