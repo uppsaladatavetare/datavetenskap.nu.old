@@ -12,7 +12,8 @@ Smartstudies
 **Jobba med läxhjälp och privatundervisning i Uppsala med SmartStudies**
 ==========================================================================
 
-Alla vet att det bästa jobbet är det som ger möjligheten att syssla med det som man är intresserad av. Med SmartStudies så får du chansen att hjälpa till med läxhjälp och privatundervisning inom det skolämne som du kan och brinner för. Om du kan ämnet så kan vi hjälpa dig att lära ut på rätt sätt. Du får uppleva verklig glädje av att se hur ditt arbete faktiskt förändrar livet för så många andra som ännu inte har insett hur kul det är att plugga ditt favoritämne.
+Alla vet att det bästa jobbet är det som ger möjligheten att syssla med det som man är intresserad av. Med `Smartstudies 
+<http://smartstudies.se>`_ så får du chansen att hjälpa till med läxhjälp och privatundervisning inom det skolämne som du kan och brinner för. Om du kan ämnet så kan vi hjälpa dig att lära ut på rätt sätt. Du får uppleva verklig glädje av att se hur ditt arbete faktiskt förändrar livet för så många andra som ännu inte har insett hur kul det är att plugga ditt favoritämne.
 
 SmartStudies är verksamma i hela Sverige där Uppsala är en av de mest aktiva. Läs mer om vår läxhjälp i Uppsala på `Smartstudies 
 <http://smartstudies.se>`_.
