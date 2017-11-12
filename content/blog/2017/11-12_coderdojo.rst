@@ -10,7 +10,6 @@ CoderDojo
 
 **Datavetare Sökes**
 ==========================================================================
-CoderDojo hälsar:
 
 "Den 15e november kl 18-20 kommer CoderDojo Uppsala till Polacksbacken och hjälper runt 30 barn och ungdomar att lära sig programmera. Vi vill gärna få med fler mentorer som kan hjälpa deltagarna med programmering.
 I de flesta fallen jobbar deltagarna med Scratch (scratch.mit.edu) men fler och fler hoppar på språk som python, c# och javascript.
