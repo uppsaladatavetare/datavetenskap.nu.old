@@ -19,9 +19,13 @@ Nuvarande stadgar hittar ni under `styrdokument <http://www.datavetenskap.nu/for
 
 `Styrelsens förslag till verksamhetsplan 2018 <https://drive.google.com/open?id=1bKJQHL-463u3zsn9HW5Gj5w_QcfEDQHx>`__.
 
+
+`Styrelsens förslag till budget 2018 <https://drive.google.com/file/d/1SWkv76N4YlNSq-WETPrDTIfI3LI53gLE/view?usp=sharing>`__.
+
+
 `Proposition gällande ändring av sista datum för stormöte i stadgarna <https://drive.google.com/a/utn.se/file/d/18soZb5700gAudH09ut-RG195dBl6GftO/view?usp=sharing>`__.
 
 Motioner skickas till dv-ordf@utn.se
 
-Info om lokal, föredragningslista och annat kommer snart.
+Info om lokal och annat kommer snart.
 
