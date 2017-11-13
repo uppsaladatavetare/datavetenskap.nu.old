@@ -3,7 +3,7 @@ Höstmötet 2017
 
 :date: 2017-10-31 18:18:18
 :modified: 2017-11-12 18:19
-:tags: Alla, Informationsansvarig
+:tags: Alla, Informationsansvarig, Stormöte
 :slug: event/höstmötet
 :authors: Informationsansvarig
 
