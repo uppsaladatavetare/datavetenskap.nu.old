@@ -25,6 +25,9 @@ Nuvarande stadgar hittar ni under `styrdokument <http://www.datavetenskap.nu/for
 
 `Proposition gällande ändring av sista datum för stormöte i stadgarna <https://drive.google.com/a/utn.se/file/d/18soZb5700gAudH09ut-RG195dBl6GftO/view?usp=sharing>`__.
 
+`Proposition gällande tillsättning av studiesocialt ansvarig i styrelsen <https://drive.google.com/file/d/1hTYc18h4hn6BPwNrQZ-f7XqDrZpw-Gb8/view?usp=sharing>`__.
+
+
 Motioner skickas till dv-ordf@utn.se
 
 Info om lokal och annat kommer snart.
