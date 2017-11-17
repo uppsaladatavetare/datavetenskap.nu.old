@@ -32,5 +32,4 @@ Nuvarande stadgar hittar ni under `styrdokument <http://www.datavetenskap.nu/for
 
 Motioner skickas till dv-ordf@utn.se
 
-Info om lokal och annat kommer snart.
 
