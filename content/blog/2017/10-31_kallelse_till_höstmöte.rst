@@ -33,3 +33,5 @@ Nuvarande stadgar hittar ni under `styrdokument <http://www.datavetenskap.nu/for
 Motioner skickas till dv-ordf@utn.se
 
 
+OBS: Motionsstopp 19/11-17 kl 23:59
+
