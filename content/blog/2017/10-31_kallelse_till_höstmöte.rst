@@ -11,9 +11,11 @@ Höstmötet 2017
 **Kallelse till Stormöte 20/11-17**
 ==========================================================================
 Då var det dags igen, om knappt tre veckor sker höstens stormöte!
+Som vanligt håller det hus kl 17ak i 1111.
 
 På mötet kommer ni få möjligheten att styra framtiden för sektionen samt få en inblick på hur en kan göra för att själv vara med och påverka. 
 Nuvarande stadgar hittar ni under `styrdokument <http://www.datavetenskap.nu/foreningar/ud-2/arkiv/>`__.
+
 
 `Föredragningslista för höstmötet 2017 <https://drive.google.com/file/d/1Lshj5jY_Cky4sioqfW-jF_BhnJIyI1RJ/view?usp=sharing>`__.
 
