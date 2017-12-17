@@ -51,8 +51,19 @@ Protokoll
 -  `Styrelsemöte
    2011-04-26 <https://drive.google.com/open?id=0BzKA7EMuc2CKdFNsQ00zeFhDOEE>`__
 
- 
+Höstmöte 2017
+-------------
 
+-  `Verksamhetsplan
+   2018 <https://drive.google.com/file/d/1bKJQHL-463u3zsn9HW5Gj5w_QcfEDQHx/view>`__
+-  `Budget
+   2018 <https://drive.google.com/open?id=1SWkv76N4YlNSq-WETPrDTIfI3LI53gLE>`__
+-  `Stormötesprotokoll <https://drive.google.com/open?id=108g7PpGI_vb5Hpb7HlZsncMyfig2H0vC>`__
+-  `Proposition gällande
+   om Studiesocialtansvarig ska ingå i styrelsen <https://drive.google.com/open?id=1hTYc18h4hn6BPwNrQZ-f7XqDrZpw-Gb8>`__
+-  `Proposition gällande
+   ändring av sista datum för stormöte i stadgarna <https://drive.google.com/a/utn.se/file/d/18soZb5700gAudH09ut-RG195dBl6GftO/view?usp=sharing>`__
+   
 Höstmöte 2016
 -------------
 
