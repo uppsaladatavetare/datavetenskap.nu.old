@@ -19,10 +19,12 @@ Att vara med i Klubbverket innebär att tillsammans med Klubbmästaren vara med 
 
 Men vad innebär det mer konkret att vara med i Klubbverket?
 ############################################################
+
 - Hjälpa till rent praktiskt med event
 - Beredd att vara med på möten ca 0.5-1 gång/vecka (efter behov)
 - Välja mellan att sitta med i Klubbverket under enbart vårterminen eller även under höstterminen
 - Komma med egna idéer
 - **Ha KUL!**
 - Få ett supernice intyg på ditt engagemang
+
 Vad väntar du på? **SÖK SÖK SÖK!!**
