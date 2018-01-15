@@ -4,7 +4,7 @@ Klubbmästaren Söker Klubbverk
 :date: 2018-01-14 16:27:00
 :modified: 2018-01-14 16:28:00
 :tags: Alla, DVKV
-:slug: event/klubbverk
+:slug: event/klubbverktmp
 :authors: Informationsansvarig
 
 **Hallå där i vintermörkret!** 
