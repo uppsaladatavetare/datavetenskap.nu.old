@@ -2,6 +2,7 @@ Klubbmästaren Söker Klubbverk
 #############################
 
 :date: 2018-01-14 16:27:00
+:modified: 2018-01-14 16:28:00
 :tags: Alla, DVKV
 :slug: event/klubbverk_sokes
 :authors: Informationsansvarig
@@ -18,7 +19,7 @@ Att vara med i Klubbverket innebär att tillsammans med Klubbmästaren vara med 
 **Sista dagen att söka är söndag 21/1**
 
 Men vad innebär det mer konkret att vara med i Klubbverket?
-############################################################
+=============================================================
 
 - Hjälpa till rent praktiskt med event
 - Beredd att vara med på möten ca 0.5-1 gång/vecka (efter behov)
