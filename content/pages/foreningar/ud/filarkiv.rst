@@ -7,7 +7,7 @@ Styrdokument
 ------------
 
 -  `Stadgar fastställda
-   2015-10-28 <https://drive.google.com/open?id=0BzKA7EMuc2CKNTRPS1V5Q2RnMm8>`__
+   2017-11-20 <https://drive.google.com/file/d/1bmAzjF5uoyzEtSwI8XBUvJ4afNGx_zdp/view?usp=sharing>`__
 -  `Reglemente fastställda
    2016-04-20 <https://drive.google.com/open?id=0BzKA7EMuc2CKaHJEY3M1WU1yMVU>`__
 
