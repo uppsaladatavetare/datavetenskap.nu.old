@@ -3,17 +3,19 @@ Styrelsen
 
 :slug: foreningar/ud-2/styrelsen
 
--  | Ordförande: `Kristoffer Nordin </author/ordforande>`__
+-  | Ordförande: `Kevin Alemi </author/ordforande>`__
    | dv-ordf@utn.se
--  | Vice Ordförande tillika Ekonomiskt ansvarig: `Mattias Aronsson Adler </author/vice-ordforande>`__
+-  | Vice Ordförande tillika Ekonomiskt ansvarig: `Christoffer Falkovén </author/vice-ordforande>`__
    | dv-kassor@utn.se
--  | Studierådsordförande: `Johannes Almroth </author/studieradsansvarig>`__
+-  | Studierådsordförande: `Elsa Slättegård </author/studieradsansvarig>`__
    | dv-sr@utn.se
--  | Tillgångsansvarig: Alexis Remmers
+-  | Studiesocialt ansvarig: Pontus Ernstedt
+   | dv-soc@utn.se
+-  | Tillgångsansvarig: Benjamin Ek
    | dv-stuff@utn.se
--  | Klubbmästare: Simon Berntsson
+-  | Klubbmästare: Sofia Engström
    | dv-klubb@utn.se
--  | Sekreterare: Benjamin Ek
+-  | Sekreterare: Mika Jarl Lacorte Skjelnes
    | dv-sekreterare@utn.se
--  | Informationsansvarig: `Mika Jarl Lacorte Skjelnes </author/informationsansvarig>`__
+-  | Informationsansvarig: `Max Gabrielsson </author/informationsansvarig>`__
    | dv-info@utn.se
