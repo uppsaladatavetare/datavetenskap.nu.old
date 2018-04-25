@@ -4,7 +4,7 @@ DAGisSLAGET
 :date: 2018-03-19 16:24:00
 :modified: 2018-03-19 16:24:00
 :tags: Alla, DVKV
-:slug: event/klubbverk
+:slug: event/dagis
 :authors: DVKV
 
 DAGisSLAGET - DV hackar GRiSphesten
