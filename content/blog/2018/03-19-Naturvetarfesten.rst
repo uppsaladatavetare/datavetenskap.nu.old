@@ -4,7 +4,7 @@ Naturvetarfesten
 :date: 2018-03-19 16:24:00
 :modified: 2018-03-19 16:24:00
 :tags: Alla, DVKV
-:slug: event/klubbverk
+:slug: event/naturfest18
 :authors: DVKV
 
 Naturvetarfesten 2018
