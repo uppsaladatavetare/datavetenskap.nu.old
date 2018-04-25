@@ -4,7 +4,7 @@ Vårmöte 2018
 :date: 2018-04-25 19:18:18
 :modified: 2018-04-25 19:19
 :tags: Alla, Informationsansvarig, Stormöte
-:slug: event/vårmötet
+:slug: event/vårmötet18
 :authors: Informationsansvarig
 
 
