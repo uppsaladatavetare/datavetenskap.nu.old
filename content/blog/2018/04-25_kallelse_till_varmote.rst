@@ -15,7 +15,7 @@ Vårmöte kl 17ak i 1111.
 Flertalet propositioner om reglementeändringar kommer föreslås under mötet, se till att ni läser dem inför mötet.
 Nuvarande stadgar hittar ni under och reglemente `styrdokument <http://www.datavetenskap.nu/foreningar/ud-2/arkiv/>`__.
 
-`Preliminär Föredragningslista för vårmötet 2018 <https://drive.google.com/file/d/12jYzBNwcRT3xASEf6qNvUbL3WR2yx2tW/view?usp=sharing>`__.
+`Preliminär Föredragningslista för vårmötet 2018 <https://drive.google.com/file/d/1l_eVg9cr7dz-L6juVaDenu0fVC4c84GM/view?usp=sharing>`__.
 Notera att föredragningslistan kommer att uppdateras parallellt med inkommande propositioner och hanterade motioner.
 
 .. `Proposition gällande flytt av ansvarsområde fran Studieradsordforande till Studiesocialt ansvarig <https://drive.google.com/file/d/1mkNm0tbv6ORMNFTreehcjR-HS6_ETQqD/view?usp=sharing>`__.
