@@ -26,8 +26,9 @@ Exklusivt spex av Sticks and Stones!
 Släppbiljett, 02-släpp: 80 kr förköp/ 100 kr i dörr
 
 Biljettförsäljning: 23 mars 12.15-13.00
-*Möbius
-*Gamla lunchrummet i EBC
-*Jeo-café/stora entrén
-*FooBar
+
+- Möbius
+- Gamla lunchrummet i EBC
+- Jeo-café/stora entrén
+- FooBar
 
