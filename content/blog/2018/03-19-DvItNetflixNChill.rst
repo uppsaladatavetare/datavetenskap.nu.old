@@ -4,7 +4,7 @@ IT/DVs Netflix&Chill
 :date: 2018-03-19 16:24:00
 :modified: 2018-03-19 16:24:00
 :tags: Alla, DVKV
-:slug: event/klubbverk
+:slug: event/netflixchill
 :authors: DVKV
 
 Det pratas ofta om IT och DV som syskon-sektioner, det är många kurser som läses gemensamt och en del evenemang som planeras tillsammans. Visst har syskon sitt syskongnabb ibland, men efter IT/DV-dagarna är det självklart att stämningen är på topp!
