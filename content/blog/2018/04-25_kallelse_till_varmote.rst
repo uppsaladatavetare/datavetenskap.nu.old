@@ -10,9 +10,9 @@ Vårmöte 2018
 
 **Kallelse till Stormöte 25/04-18**
 ==========================================================================
-Vårmöte kl 17ak i 1111.
+Vårmöte kl 17dk i 1111.
 
-Flertalet propositioner om reglementeändringar kommer föreslås under mötet, se till att ni läser dem inför mötet.
+Flertalet propositioner om reglementeändringar kommer föreslås under mötet, se till att ni läser dem innan dess.
 Nuvarande stadgar och reglemente hittar ni under `styrdokument <http://www.datavetenskap.nu/foreningar/ud-2/arkiv/>`__.
 
 `Preliminär Föredragningslista för vårmötet 2018 <https://drive.google.com/file/d/1l_eVg9cr7dz-L6juVaDenu0fVC4c84GM/view?usp=sharing>`__.
