@@ -4,7 +4,7 @@ Mötesprotokoll för Höstmötet 2017
 :date: 2017-12-10 18:18:18
 :modified: 2017-12-10 18:19
 :tags: Alla, Informationsansvarig, Stormöte
-:slug: event/höstmötet
+:slug: event/höstmötetproto
 :authors: Informationsansvarig
 
 

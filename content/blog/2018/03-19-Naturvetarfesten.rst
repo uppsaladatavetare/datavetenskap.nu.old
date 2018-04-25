@@ -4,7 +4,7 @@ Naturvetarfesten
 :date: 2018-03-19 16:24:00
 :modified: 2018-03-19 16:24:00
 :tags: Alla, DVKV
-:slug: event/klubbverk
+:slug: event/naturfest18
 :authors: DVKV
 
 Naturvetarfesten 2018
@@ -26,8 +26,9 @@ Exklusivt spex av Sticks and Stones!
 Släppbiljett, 02-släpp: 80 kr förköp/ 100 kr i dörr
 
 Biljettförsäljning: 23 mars 12.15-13.00
-*Möbius
-*Gamla lunchrummet i EBC
-*Jeo-café/stora entrén
-*FooBar
+
+- Möbius
+- Gamla lunchrummet i EBC
+- Jeo-café/stora entrén
+- FooBar
 

@@ -4,7 +4,7 @@ Capseisa 2018
 :date: 2018-03-19 16:24:00
 :modified: 2018-03-19 16:24:00
 :tags: Alla, DVKV
-:slug: event/klubbverk
+:slug: event/capseisa18
 :authors: DVKV
 
 Capseisa 2018
