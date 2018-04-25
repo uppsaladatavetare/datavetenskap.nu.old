@@ -16,12 +16,13 @@ Flertalet propositioner om reglementeändringar kommer föreslås under mötet, 
 Nuvarande stadgar hittar ni under och reglemente `styrdokument <http://www.datavetenskap.nu/foreningar/ud-2/arkiv/>`__.
 
 `Preliminär Föredragningslista för vårmötet 2018 <https://drive.google.com/file/d/12jYzBNwcRT3xASEf6qNvUbL3WR2yx2tW/view?usp=sharing>`__.
+Notera att föredragningslistan kommer att uppdateras parallellt med inkommande propositioner och hanterade motioner.
 
-`Proposition gällande flytt av ansvarsområde fran Studieradsordforande till Studiesocialt ansvarig <https://drive.google.com/file/d/1mkNm0tbv6ORMNFTreehcjR-HS6_ETQqD/view?usp=sharing>`__.
+.. `Proposition gällande flytt av ansvarsområde fran Studieradsordforande till Studiesocialt ansvarig <https://drive.google.com/file/d/1mkNm0tbv6ORMNFTreehcjR-HS6_ETQqD/view?usp=sharing>`__.
 
-`Proposition gällande ansvarsområden till studiesocialt ansvarig <https://drive.google.com/file/d/11OhKOrgKX8UAtXnuKJxY56JjVkLzZub8/view?usp=sharing>`__.
+.. `Proposition gällande ansvarsområden till studiesocialt ansvarig <https://drive.google.com/file/d/11OhKOrgKX8UAtXnuKJxY56JjVkLzZub8/view?usp=sharing>`__.
 
-`Proposition gällande uppdatering av FooBar-ansvar <https://drive.google.com/file/d/1vAyM7vUvMLhyLTPlRxg0oTKTMM59UfU_/view?usp=sharing>`__.
+.. `Proposition gällande uppdatering av FooBar-ansvar <https://drive.google.com/file/d/1vAyM7vUvMLhyLTPlRxg0oTKTMM59UfU_/view?usp=sharing>`__.
 
 
 Motioner skickas till dv-ordf@utn.se
