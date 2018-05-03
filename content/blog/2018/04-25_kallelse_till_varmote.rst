@@ -15,14 +15,18 @@ Vårmöte kl 17dk i 1111.
 Flertalet propositioner om reglementeändringar kommer föreslås under mötet, se till att ni läser dem innan dess.
 Nuvarande stadgar och reglemente hittar ni under `styrdokument <http://www.datavetenskap.nu/foreningar/ud-2/arkiv/>`__.
 
-`Preliminär Föredragningslista för vårmötet 2018 <https://drive.google.com/file/d/1l_eVg9cr7dz-L6juVaDenu0fVC4c84GM/view?usp=sharing>`__.
+`Preliminär Föredragningslista för vårmötet 2018 <https://drive.google.com/file/d/10ImrjbsgSu1PmGZWnrmRXaoDoAX-9ANK/view?usp=sharing>`__.
 Notera att föredragningslistan kommer att uppdateras parallellt med inkommande propositioner och hanterade motioner.
 
-.. `Proposition gällande flytt av ansvarsområde fran Studieradsordforande till Studiesocialt ansvarig <https://drive.google.com/file/d/1mkNm0tbv6ORMNFTreehcjR-HS6_ETQqD/view?usp=sharing>`__.
+`Proposition gällande flytt av ansvarsområde fran Studieradsordforande till Studiesocialt ansvarig <https://drive.google.com/file/d/12XnwX3jMorosff_PMugZlstDb6zIXnwj/view?usp=sharing>`__.
 
-.. `Proposition gällande ansvarsområden till studiesocialt ansvarig <https://drive.google.com/file/d/11OhKOrgKX8UAtXnuKJxY56JjVkLzZub8/view?usp=sharing>`__.
+`Proposition gällande ansvarsområden till studiesocialt ansvarig <https://drive.google.com/file/d/1JM3ZgfM67nfW3qFGuP6uiA1s6jhxyyi_/view?usp=sharing>`__.
 
-.. `Proposition gällande uppdatering av FooBar-ansvar <https://drive.google.com/file/d/1vAyM7vUvMLhyLTPlRxg0oTKTMM59UfU_/view?usp=sharing>`__.
+`Proposition gällande uppdatering av FooBar-ansvar <https://drive.google.com/file/d/1FAsG8FMLd0vWFUZANMxRkiixVzrdAMn0/view?usp=sharing>`__.
+
+`Proposition gällande klubbmästarens ansvar för klubbverket <https://drive.google.com/file/d/1y1wlCiYZR61MPy1AiwaKtr-p0-C3vbge/view?usp=sharing>`__.
+
+`Proposition gällande informationsansvariges ansvar för informationsutskottet <https://drive.google.com/file/d/13O8Dg0yXb5N36bqdKbq0kppIayfKWfZt/view?usp=sharing>`__.
 
 
 Motioner skickas till dv-ordf@utn.se
