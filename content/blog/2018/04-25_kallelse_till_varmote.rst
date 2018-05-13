@@ -34,6 +34,8 @@ Notera att föredragningslistan kommer att uppdateras parallellt med inkommande 
 
 `Motion angående nytt styrelsemärke <https://drive.google.com/file/d/1LVZOiVrwaNpdZbAs_kb2AQOssPjm2Mad/view?usp=sharing>`__.
 
+`Motion angående hedersbetygelse <https://drive.google.com/file/d/0B1wMrzq5y8vGX0FxUUhnNjFkYmFoeU5valZjMzVRTVlnRWJV/view?usp=sharing>`__.
+
 Motioner skickas till dv-ordf@utn.se
 
 OBS: Motionsstopp några dagar innan mötet, exakt datum kommer senare.
