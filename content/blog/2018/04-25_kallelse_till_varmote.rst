@@ -2,13 +2,13 @@ Vårmöte 2018
 ##############################
 
 :date: 2018-04-25 19:18:18
-:modified: 2018-05-12 19:37
+:modified: 2018-05-13 20:05
 :tags: Alla, Informationsansvarig, Stormöte
 :slug: event/vårmötet18
 :authors: Informationsansvarig
 
 
-**Kallelse till Stormöte 25/04-18**
+**Kallelse till Stormöte 15/05-18**
 ==========================================================================
 Vårmöte kl 17dk i 1111.
 
