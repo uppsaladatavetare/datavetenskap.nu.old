@@ -15,7 +15,7 @@ Vårmöte kl 17dk i 1111.
 Flertalet propositioner om reglementeändringar kommer föreslås under mötet, se till att ni läser dem innan dess.
 Nuvarande stadgar och reglemente hittar ni under `styrdokument <http://www.datavetenskap.nu/foreningar/ud-2/arkiv/>`__.
 
-`Preliminär Föredragningslista för vårmötet 2018 <https://drive.google.com/file/d/10ImrjbsgSu1PmGZWnrmRXaoDoAX-9ANK/view?usp=sharing>`__.
+`Preliminär Föredragningslista för vårmötet 2018 <https://drive.google.com/file/d/1O621RDrjGs7-DRZ9hBTAAPnebEHfSK7j/view?usp=sharing>`__.
 Notera att föredragningslistan kommer att uppdateras parallellt med inkommande propositioner och hanterade motioner.
 
 **Propositioner:**
