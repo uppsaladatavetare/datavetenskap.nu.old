@@ -9,7 +9,7 @@ Styrdokument
 -  `Stadgar fastställda
    2017-11-20 <https://drive.google.com/file/d/1bmAzjF5uoyzEtSwI8XBUvJ4afNGx_zdp/view?usp=sharing>`__
 -  `Reglemente fastställda
-   2017-11-20 <https://drive.google.com/file/d/1OkVuJKQjblYXTutTmhX0cagb1BL7aEW_/view?usp=sharing>`__
+   2018-05-15 <https://drive.google.com/file/d/17xJCtQkbxyucKOkYenHbGUX_QubmH1AE/view?usp=sharing>`__
 
  
 
