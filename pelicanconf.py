@@ -44,6 +44,6 @@ PAGINATION_PATTERNS = (
     (2, '{name}/page/{number}/', '{base_name}/page/{number}/index.html'),
 )
 
-THEME = 'theme'
+THEME = 'theme_new'
 
 EDIT_CONTENT_URL = 'https://github.com/uppsaladatavetare/datavetenskap.nu/blob/master/{file_path}'

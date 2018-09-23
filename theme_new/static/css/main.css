@@ -1,0 +1,102 @@
+
+
+
+/* base -------------------------------------------------------------------*/
+
+html, body {
+	margin: 0;
+	width: 100%;
+}
+
+body * { border: 1px solid red; }
+
+body {
+/* 	background-color: #D7D2C8; */
+
+	background: url(/theme/img/bg_alt.jpg) #111 fixed 50% 80%;
+	background-size: cover;
+	margin: 0;
+}
+
+/* .header {
+	height: 600px;
+	width: 100%;
+	background-image: url(/theme/img/bg_alt_blur.jpg);
+	background-color: #111;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin: auto;
+} */
+
+.header {
+	height: 500px;
+	width: 100%;
+	margin: auto;
+}
+
+main {
+	margin: auto;
+	width: 100%;
+	max-width: 1024px;
+
+}
+
+.footer {
+	height: 300px;
+	width: 100%;
+	margin: auto;
+	background-color: rgb(30, 30, 30)
+}
+
+/* nav --------------------------------------------------------------------*/
+
+nav {
+	opacity: 0;
+	position: fixed;
+	top: 0;
+	height: 100px;
+	width: 100%;
+	/* margin: auto; */
+	background-color: rgb(30, 30, 30);
+}
+
+nav .fixed {
+
+}
+
+
+/* post -------------------------------------------------------------------*/
+
+.post {
+	background-color: lightgrey
+}
+
+.post-header {
+
+}
+
+.post-meta {
+
+}
+
+.post-title {
+
+}
+
+.post-content {
+	background-color: darkgrey
+}
+
+.post-content a {
+	color: red
+}
+
+
+.post-footer {
+
+}
+
+.category-links {
+
+}
