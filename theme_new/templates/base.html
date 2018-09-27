@@ -1,17 +1,20 @@
 <!DOCTYPE html>
 <html lang="sv-SE">
+
 <head>
     <meta name="google-site-verification" content="nz_BiSVURy6CKcK7A58FykG9QwukTq5q2vW7MF7x2RM" />
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1" name="viewport">
-	<title>{% block indextitle %}{{ SITENAME }} | Datavetenskapsprogrammet Uppsala{% endblock %}</title>
-    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C600%7CLora%3A400%2C400italic&#038;ver=4.1.16' id='webfonts-css' media='all' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" id='datavetenskap-nu-style-css' media='all' rel='stylesheet' type='text/css'>
-	<script src="https://use.fontawesome.com/76d6b30b54.js"></script>
+    <title>{% block indextitle %}{{ SITENAME }} | Datavetenskapsprogrammet Uppsala{% endblock %}</title>
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C600%7CLora%3A400%2C400italic&#038;ver=4.1.16'
+        id='webfonts-css' media='all' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" id='datavetenskap-nu-style-css' media='all'
+        rel='stylesheet' type='text/css'>
+    <script src="https://use.fontawesome.com/76d6b30b54.js"></script>
     <script src='{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.js?ver=1.11.1' type='text/javascript'> </script>
     <script src='{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery-migrate.min.js?ver=1.2.1' type='text/javascript'> </script>
 
-	<script type="application/ld+json">
+    <script type="application/ld+json">
 	{
  	"@context": "https://schema.org",
   	"@type": "Organization",
@@ -19,28 +22,38 @@
   	"logo": "https://www.datavetenskap.nu/images/ud.png",
   	"name": "Uppsala Datavetare"
 	}
-	</script>
-	{% include "analytics.html" %}
+	</script> {% include "analytics.html" %}
 </head>
+
 <body class="{% block body_classes %}{% endblock %}">
     <nav>
-    <!-- {% include "menu.html" %} -->
+        <!-- {% include "menu.html" %} -->
     </nav>
-    <header class="header">
-
-    </header>
+    <div class="banner-wrapper">
+        <div class="banner">
+        </div>
+    </div>
+    <section class="index-header">
+        
+    </section>
     <main>
-        {% block content %}
-		{% endblock content %}
+        <div class="content-wrapper">
+            {% block content %} 
+            {% endblock content %}
+        </div>
     </main>
-    <footer class="footer">
 
+    <footer class="footer">
     </footer>
+
     <script src='{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/navigation.js?ver=20120206' type='text/javascript'>
+    </script>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.paroller.min.js">
     </script>
     <script src='{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/nav-scroll-fade.js?ver=20130115' type='text/javascript'>
     </script>
     <script src='{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/skip-link-focus-fix.js?ver=20130115' type='text/javascript'>
     </script>
 </body>
+
 </html>

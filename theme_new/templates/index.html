@@ -5,7 +5,6 @@
 	<header class="post-header">
 		<div class="post-meta">
 			<span class="posted-on"><time class="entry-date published" datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></span> <span class="byline">av <span class="author card">{{ article.author|upper }}</span></span>
-			<hr>
 		</div>
 		<h2 class="post-title">{{ article.title }}</h2>
 	</header>
@@ -16,6 +15,7 @@
 		<span class="category-links">Postad i {% for tag in article.tags %}{% if not loop.first %}, {% endif %}<a href="{{ SITEURL }}/{{ tag.url }}" rel="category tag">{{ tag.name }}</a>{% endfor %}</span>
 	</footer>
 </article>
+<hr class="divider">
 {%- endfor %}
 {% if articles_page.has_other_pages() %}
     {% include 'pagination.html' %}
