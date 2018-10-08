@@ -19,7 +19,7 @@ Pris: TBA*
 Anmälan: TBA
 
 
-*I priset ingår märke, mat och fördrink
+\*I priset ingår märke, mat och fördrink
 
 `Håll koll på Facebook-evenemanget! <https://www.facebook.com/events/548998812219760/>`__
 
@@ -38,7 +38,7 @@ Price: TBA*
 Registration: TBA
 
 
-*The price includes badge, food and pre-drink
+\*The price includes badge, food and pre-drink
 
 `Keep track of the Facebook-event! <https://www.facebook.com/events/548998812219760/>`__
 
