@@ -12,18 +12,31 @@ Den 29:e oktober under lunch kommer alla sektioner tävla mot varandra i en batt
 Alla som deltar får ett tygmärke!
 Alla sektioner har en bestämd plats de ska gå till för att tävla. För att undvika logistiskt kaos ber vi er gå till rätt sal!
 
+**DV är i Å2004!!**
+
 Paulan: NVK, NVM, NVF, NVL
 Å2001: H, BAS
+
 Å2002: STS
-Å2004: DV, Q
+
+Å2004:**DV**, Q
+
 Å2005: W
+
 Å4005: IT
+
 Å4006: F
+
 Å4007: E, K
+
 Hambergsalen: NVG
+
 Friesalen: NVB
-Å4001: ES (samtidigt som studieråd)
+
+Å4001: ES (samtidigt som studieråd
+)
 Å80101: X (samtidigt som studieråd)
+
 
 Detta event anordnas av Uppsala teknolog- och naturvetarkårs utbildningsbevakare samt
 utbildningsutskottet
@@ -36,17 +49,29 @@ Everyone who participates gets a patch!
 All sections have a specific place to go to. In order to avoid logistical chaos, we ask you to go to the right hall!
 
 Paulan: NVK, NVM, NVF, NVL
+
 Å2001: H, BAS
+
 Å2002: STS
-Å2004: DV, Q
+
+Å2004:**DV**, Q
+
 Å2005: W
+
 Å4005: IT
+
 Å4006: F
+
 Å4007: E, K
+
 Hambergsalen: NVG
+
 Friesalen: NVB
+
 Å4001: ES (coincides with student council)
+
 Å80101: X (coincides with student council)
+
 
 This event is organized by Uppsala Union of Engineering and Science students and the Education Committee
     
