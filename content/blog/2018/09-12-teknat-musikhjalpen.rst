@@ -21,5 +21,7 @@ Vi kommer även tillsammans att sälja fika på olika campus under lunchen under
 
 Var med och stöd Musikhjälpen 2018, tillsammans kan vi göra skillnad!
 
+(PS: Det ryktas också om att om vi tillsammans når 100 000kr kommer alla klubbmästare att bada i fyrisån, men du hörde det inte från mig!)
+
 
 
