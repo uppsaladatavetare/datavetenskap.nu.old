@@ -2,10 +2,12 @@ Semmeltävling
 ##############
 
 :date: 2019-02-24 23:30:00
-:modified: 2019-02-24 23:30:00
+:modified: 2019-03-04 17:03:00
 :tags: Alla, UTN
 :slug: event/semmeltavling
 :authors: Informationsansvarig
+
+**Uppdatering: INSTÄLLD**
 
 Den 5 mars är det fettisdagen och cafégruppen kommer då att anordna en semmeltävling
 på Uthgård och våran sektion behöver ett bidrag. Så gillar du att baka så får du gärna
