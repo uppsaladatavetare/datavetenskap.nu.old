@@ -4,7 +4,7 @@ Vårmöte 2019
 :date: 2019-04-21 22:15:18
 :modified: 2019-04-21 22:15:18
 :tags: Alla, Informationsansvarig, Stormöte
-:slug: event/vårmötet18
+:slug: event/varmote_2019
 :authors: Informationsansvarig
 
 
@@ -21,6 +21,10 @@ Nytt för i år är att man måste fylla i `matanmälan <https://forms.gle/3WWNA
 med inkommande motioner och propositioner.
 
 Nuvarande stadgar och reglemente finns under `styrdokument <http://www.datavetenskap.nu/foreningar/ud-2/arkiv/>`__.
+
+**Propositioner:**
+
+`Proposition gällande ändring av reglemente. <https://docs.google.com/document/d/1SgzFPmVQ8k6q2-Sgo0ygWdeMmt4Q7fjvsvGPp83UNZk/edit?usp=sharing>`__
 
 Motioner skickas till dv-ordf@utn.se
 
