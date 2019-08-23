@@ -4,7 +4,7 @@ ACM-W Scholarships for Attendance at Research Conferences
 :date: 2019-08-22 11:13:00
 :modified: 2019-08-22 11:13:00
 :tags: Alla
-:slug: event/datavetarnas_alumnkväll_2019
+:slug: event/acm_w_scholarships_for_attendence_at_research_conferences
 :authors: Informationsansvarig
 
 ACM-W provides support for women undergraduate and graduate students in 
