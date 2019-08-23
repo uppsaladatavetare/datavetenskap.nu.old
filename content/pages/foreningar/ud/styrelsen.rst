@@ -3,7 +3,7 @@ Styrelsen
 
 :slug: foreningar/ud-2/styrelsen
 
--  | Ordförande: `Sofia Engström </author/ordforande>`__
+-  | Ordförande: `Sofia Labba </author/ordforande>`__
    | dv-ordf@utn.se
 -  | Vice Ordförande tillika Ekonomiskt ansvarig: `Anton Jäger </author/vice-ordforande>`__
    | dv-kassor@utn.se
@@ -13,7 +13,7 @@ Styrelsen
    | dv-soc@utn.se
 -  | Tillgångsansvarig: Per Alonzo
    | dv-stuff@utn.se
--  | Klubbmästare: Axel Lingestål
+-  | Klubbmästare: Axel Lingestål, Jonas Nygren
    | dv-klubb@utn.se
 -  | Sekreterare: Leo Ericson
    | dv-sekreterare@utn.se
