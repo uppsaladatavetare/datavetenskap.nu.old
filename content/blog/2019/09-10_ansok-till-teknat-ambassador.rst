@@ -2,7 +2,7 @@ Ansök till TEKNAT-ambassadör
 #############################
 
 :date: 2019-09-10 12:10:00
-:modified: 2019-08-23 12:10:00
+:modified: 2019-09-10 12:10:00
 :tags: Alla
 :slug: event/ansok_till_teknat_ambassador
 :authors: Informationsansvarig
