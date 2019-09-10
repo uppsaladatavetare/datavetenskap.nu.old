@@ -20,4 +20,4 @@ av rabatter att ta del av också, bland annat billigare mat på kårens torsdags
 .. image:: /images/utn_medlemskap.png
    :class: alignnone size-full wp-image-1078
    :width: 100%
-   :target: /images/AG19.png
+   :target: /images/utn_medlemskap.png
