@@ -7,9 +7,9 @@ Styrdokument
 ------------
 
 -  `Stadgar fastställda
-   2017-11-20 <https://drive.google.com/file/d/1bmAzjF5uoyzEtSwI8XBUvJ4afNGx_zdp/view?usp=sharing>`__
+   2018-11-28 <https://dv-sekreterare.gitlab.io/ud-stadgar/UD-stadgar.pdf>`__
 -  `Reglemente fastställda
-   2018-05-15 <https://drive.google.com/file/d/17xJCtQkbxyucKOkYenHbGUX_QubmH1AE/view?usp=sharing>`__
+   2019-05-23 <https://dv-sekreterare.gitlab.io/ud-reglemente/UD-reglemente.pdf>`__
 
  
 
@@ -50,6 +50,7 @@ Protokoll
    2011-05-10 <https://drive.google.com/open?id=0BzKA7EMuc2CKVlVpcm5Zek5UelU>`__
 -  `Styrelsemöte
    2011-04-26 <https://drive.google.com/open?id=0BzKA7EMuc2CKdFNsQ00zeFhDOEE>`__
+
 
 Höstmöte 2017
 -------------
