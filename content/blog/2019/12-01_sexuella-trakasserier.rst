@@ -26,6 +26,9 @@ Om det skulle ske någonting under ett evenemang som sektionen arrangerar kan ma
 - Q+ (tystnadsplikt)
     - qplus@it.uu.se 
 
+- Olle Gällmo, Studievägledare för DVk (tystnadsplikt)
+    - olle.gallmo@it.uu.se
+
 - Studenthälsan/kurator (tystnadsplikt)
     - Studenthälsans telefon för rådgivning och bokning av tid
     - (Du kan inte boka besök via e-post eller genom att besöka mottagningen.)
