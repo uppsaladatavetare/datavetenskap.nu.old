@@ -13,7 +13,7 @@ Styrelsen
    | dv-soc@utn.se
 -  | Tillgångsansvarig: Leon Philip
    | dv-stuff@utn.se
--  | Klubbmästare: Sara Liljefors
+-  | Klubbmästare: Jonas Nygren, Sara Liljefors
    | dv-klubb@utn.se
 -  | Sekreterare: Mikael Ivarsson
    | dv-sekreterare@utn.se
