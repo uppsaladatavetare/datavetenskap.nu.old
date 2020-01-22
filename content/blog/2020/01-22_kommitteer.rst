@@ -1,7 +1,7 @@
 Sök UTN-kommittéer!
-##############
+###################
 
-:date: 2020-01-22 09:30
+:date: 2020-01-22 11:30:00
 :tags: Alla, UTN
 :authors: Informationsansvarig
 

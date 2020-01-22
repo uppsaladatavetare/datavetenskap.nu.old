@@ -1,7 +1,7 @@
 Vårkryssen
-##############
+##########
 
-:date: 2020-01-22 09:00
+:date: 2020-01-22 11:30:00
 :tags: Alla
 :authors: Informationsansvarig
 
