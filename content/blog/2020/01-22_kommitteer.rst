@@ -15,7 +15,7 @@ Digitaliseringskå kommer att utveckla kårens appar, hemsidor och andra IT-syst
 
 **Teknolog- och Datavetarmottagningen**
 
-Snart är öppnar anmälan för mottagningskommittéerna Rekå, Fadderkå och Mediakå!
+Snart öppnar anmälan för mottagningskommittéerna Rekå, Fadderkå och Mediakå!
 
 **Anmälningsperioder**
 
