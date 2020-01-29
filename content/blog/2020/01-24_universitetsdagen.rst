@@ -2,11 +2,12 @@ Universitetsdagen
 #################
 
 :date: 2020-01-24 12:00:00
+:modified: 2020-01-29 14:30:00
 :tags: Alla
 :authors: Informationsansvarig
 
 Här kommer information om Universitetsdagen: 
-
+OBS: DVk:s deltagande i universitetsdagen organiseras av vår studievägledare Olle olle.gallmo@it.uu.se
 =========================================
 
 Den 11 februari kl. 10-15 är det Universitetsdagen (i år en hel månad tidigare än föregående år). Vägledare, Enheten för Kommunikation och skolsamverkan och studenter från programmen ordnar tillsammans dagen och ger våra besökande gymnasieleverna ett varmt välkomnande till Ångström.
