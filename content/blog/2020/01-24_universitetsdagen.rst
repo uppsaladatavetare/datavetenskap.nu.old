@@ -7,7 +7,9 @@ Universitetsdagen
 :authors: Informationsansvarig
 
 Här kommer information om Universitetsdagen: 
-OBS: DVk:s deltagande i universitetsdagen organiseras av vår studievägledare Olle olle.gallmo@it.uu.se
+
+OBS: DVk:s deltagande i universitetsdagen organiseras av vår studievägledare Olle. 
+olle.gallmo@it.uu.se
 =========================================
 
 Den 11 februari kl. 10-15 är det Universitetsdagen (i år en hel månad tidigare än föregående år). Vägledare, Enheten för Kommunikation och skolsamverkan och studenter från programmen ordnar tillsammans dagen och ger våra besökande gymnasieleverna ett varmt välkomnande till Ångström.
