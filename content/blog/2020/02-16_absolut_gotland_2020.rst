@@ -20,8 +20,6 @@ På grund av högt söktryck brukar biljetterna till AG ta slut väldigt fort oc
 
 Det finns flera stugnivåer att välja mellan, så läs på AG:s hemsida vad som gäller. Är du flexibel och kan tänka dig bo på några olika nivåer har du större chans att få plats.
 
-Anmäl dig här: https://forms.gle/4uojupbRDkjcKC479
-
 `Mer information på AG:s hemsida <https://absolutgotland.se>`__
 
 `Anmälan <https://forms.gle/4uojupbRDkjcKC479>`__
