@@ -16,7 +16,7 @@ Det mytomspunna organiserade kaoset som i folkmun kallas Absolut Gotland är til
 
 AG är ett årligt evenemang för högskole- och universitetsstudenter som under några dagar bokar upp en stugby och en camping på Gotlands kust. Detta är någonting som du absolut inte vill missa!
 
-På grund av högt söktryck brukar biljetterna till AG ta slut väldigt fort och därför är det viktigt att laget är färdigställt innan **lördag 28e februari**. Se därför till att anmäla dig nu direkt så att du inte glömmer bort det!
+På grund av högt söktryck brukar biljetterna till AG ta slut väldigt fort och därför är det viktigt att laget är färdigställt innan **fredag 28e februari**. Se därför till att anmäla dig nu direkt så att du inte glömmer bort det!
 
 Det finns flera stugnivåer att välja mellan, så läs på AG:s hemsida vad som gäller. Är du flexibel och kan tänka dig bo på några olika nivåer har du större chans att få plats.
 
