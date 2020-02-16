@@ -2,7 +2,7 @@ Absolut Gotland 2020
 ##########
 
 :date: 2020-02-16 11:30:00
-:tags: Alla, AG
+:tags: Alla
 :slug: event/absolut-gotland-2020
 :authors: Informationsansvarig
 
