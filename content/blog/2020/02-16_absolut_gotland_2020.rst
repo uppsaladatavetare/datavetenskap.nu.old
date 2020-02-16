@@ -7,10 +7,10 @@ Absolut Gotland 2020
 :slug: event/absolut-gotland-2020
 :authors: Informationsansvarig
 
-.. image:: /images/AG2020.png
+.. image:: /images/AG20_superior.png
    :class: alignnone size-full wp-image-1078
    :width: 100%
-   :target: /images/AG2020.png
+   :target: /images/AG20_superior.png
 
 Det mytomspunna organiserade kaoset som i folkmun kallas Absolut Gotland är tillbaka för det nya decenniet och datavetarna är taggade på att dra ut och härja åter igen. AG 2020 pågår från 14 till 17 mars.
 
