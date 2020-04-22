@@ -6,10 +6,10 @@ Filarkiv
 Styrdokument
 ------------
 
--  `Stadgar fastställda
-   2018-11-28 <https://dv-sekreterare.gitlab.io/ud-stadgar/UD-stadgar.pdf>`__
--  `Reglemente fastställda
-   2019-05-23 <https://dv-sekreterare.gitlab.io/ud-reglemente/UD-reglemente.pdf>`__
+-  `Stadgar reviderade 2018-11-28
+   <https://dv-sekreterare.gitlab.io/ud-stadgar/UD-stadgar.pdf>`__
+-  `Reglemente reviderad 2019-11-25
+   <https://dv-sekreterare.gitlab.io/ud-reglemente/UD-reglemente.pdf>`__
 
  
 
