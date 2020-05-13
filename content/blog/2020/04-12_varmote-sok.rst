@@ -8,7 +8,7 @@ Vårmötet 2020
 :authors: Informationsansvarig
 
 
-Vårmötet kommer hållas den 13 maj kl 19ak och vi vill att NI söker poster som tillsätts då!
+Vårmötet kommer hållas den 13 maj kl 17ak och vi vill att NI söker poster som tillsätts då!
 Mötet hålls över Zoom med ID 284 873 7563
 
 Posterna vi söker är:
