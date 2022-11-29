@@ -3,19 +3,19 @@ Styrelsen
 
 :slug: foreningar/ud-2/styrelsen
 
--  | Ordförande: `Leo Ericson </author/ordforande>`__
+-  | Ordförande: `Oskar Nylin </author/ordforande>`__
    | dv-ordf@utn.se
--  | Vice Ordförande & Kassör: `Patrik Wingqvist </author/vice-ordforande>`__
+-  | Vice Ordförande & Kassör: `Sigurd Drivenes </author/vice-ordforande>`__
    | dv-kassor@utn.se
--  | Studierådsordförande: `Emma Kjellin </author/studieradsansvarig>`__
+-  | Studierådsordförande: `Sabere Hassanyazdi </author/studieradsansvarig>`__
    | dv-sr@utn.se
--  | Studiesocialt ansvarig: Ivar Bennemo
+-  | Studiesocialt ansvarig: Julia Sandberg
    | dv-soc@utn.se
--  | Tillgångsansvarig: Leon Philip
+-  | Tillgångsansvarig: Aron Lif
    | dv-stuff@utn.se
--  | Klubbmästare: Jonas Nygren, Sara Liljefors
+-  | Klubbmästare: Leon Philip, Johan Andersson Östling
    | dv-klubb@utn.se
--  | Sekreterare: Mikael Ivarsson
+-  | Sekreterare: Eydis Daanen
    | dv-sekreterare@utn.se
--  | Informationsansvarig: `Noa Lerch </author/informationsansvarig>`__
+-  | Informationsansvarig: `Linus Wæhler </author/informationsansvarig>`__
    | dv-info@utn.se
